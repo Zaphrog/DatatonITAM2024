@@ -1,0 +1,2375 @@
+entidad,municipio,num_units,num_units_municipio,Año Censal
+aguascalientes,aguascalientes,4957,352.0,2024
+aguascalientes,asientos,101,16.0,2024
+aguascalientes,calvillo,274,16.0,2024
+aguascalientes,cosio,42,6.0,2024
+aguascalientes,el llano,34,2.0,2024
+aguascalientes,jesus maria,409,30.0,2024
+aguascalientes,pabellon de arteaga,253,17.0,2024
+aguascalientes,rincon de romos,342,15.0,2024
+aguascalientes,san francisco de los romo,158,14.0,2024
+aguascalientes,san jose de gracia,32,3.0,2024
+aguascalientes,tepezala,48,8.0,2024
+baja california,ensenada,1379,202.0,2024
+baja california,mexicali,2577,562.0,2024
+baja california,playas de rosarito,381,77.0,2024
+baja california,san felipe,71,11.0,2024
+baja california,san quintin,274,32.0,2024
+baja california,tecate,358,42.0,2024
+baja california,tijuana,5736,856.0,2024
+baja california sur,comondu,271,22.0,2024
+baja california sur,la paz,878,115.0,2024
+baja california sur,loreto,66,4.0,2024
+baja california sur,los cabos,1199,194.0,2024
+baja california sur,mulege,222,31.0,2024
+campeche,calakmul,67,8.0,2024
+campeche,calkini,156,18.0,2024
+campeche,campeche,1159,143.0,2024
+campeche,candelaria,126,19.0,2024
+campeche,carmen,966,112.0,2024
+campeche,champoton,313,32.0,2024
+campeche,dzitbalche,53,6.0,2024
+campeche,escarcega,239,22.0,2024
+campeche,hecelchakan,98,13.0,2024
+campeche,hopelchen,75,16.0,2024
+campeche,palizada,29,2.0,2024
+campeche,seybaplaya,67,5.0,2024
+campeche,tenabo,46,4.0,2024
+chiapas,acacoyagua,70,16.0,2024
+chiapas,acala,150,19.0,2024
+chiapas,acapetahua,70,13.0,2024
+chiapas,aldama,4,2.0,2024
+chiapas,altamirano,151,12.0,2024
+chiapas,amatenango de la frontera,37,7.0,2024
+chiapas,amatenango del valle,13,6.0,2024
+chiapas,amatan,46,9.0,2024
+chiapas,angel albino corzo,220,27.0,2024
+chiapas,arriaga,226,16.0,2024
+chiapas,bejucal de ocampo,1,1.0,2024
+chiapas,bella vista,32,6.0,2024
+chiapas,benemerito de las americas,93,16.0,2024
+chiapas,berriozabal,169,35.0,2024
+chiapas,bochil,178,14.0,2024
+chiapas,cacahoatan,184,27.0,2024
+chiapas,capitan luis angel vidal,8,1.0,2024
+chiapas,catazaja,32,3.0,2024
+chiapas,chalchihuitan,33,5.0,2024
+chiapas,chamula,202,9.0,2024
+chiapas,chanal,33,2.0,2024
+chiapas,chapultenango,28,5.0,2024
+chiapas,chenalho,55,15.0,2024
+chiapas,chiapa de corzo,238,41.0,2024
+chiapas,chiapilla,37,6.0,2024
+chiapas,chicoasen,27,2.0,2024
+chiapas,chicomuselo,160,15.0,2024
+chiapas,chilon,161,22.0,2024
+chiapas,cintalapa,337,34.0,2024
+chiapas,coapilla,41,6.0,2024
+chiapas,comitan de dominguez,1365,102.0,2024
+chiapas,copainala,76,11.0,2024
+chiapas,el bosque,43,9.0,2024
+chiapas,el parral,110,16.0,2024
+chiapas,el porvenir,66,4.0,2024
+chiapas,emiliano zapata,49,6.0,2024
+chiapas,escuintla,189,26.0,2024
+chiapas,francisco leon,5,1.0,2024
+chiapas,frontera comalapa,520,39.0,2024
+chiapas,frontera hidalgo,26,4.0,2024
+chiapas,huehuetan,93,15.0,2024
+chiapas,huitiupan,22,2.0,2024
+chiapas,huixtla,478,47.0,2024
+chiapas,huixtan,17,2.0,2024
+chiapas,ixhuatan,36,5.0,2024
+chiapas,ixtacomitan,18,4.0,2024
+chiapas,ixtapa,73,11.0,2024
+chiapas,ixtapangajoya,10,2.0,2024
+chiapas,jiquipilas,75,13.0,2024
+chiapas,jitotol,69,9.0,2024
+chiapas,juarez,65,14.0,2024
+chiapas,la concordia,143,18.0,2024
+chiapas,la grandeza,30,2.0,2024
+chiapas,la independencia,152,19.0,2024
+chiapas,la libertad,13,2.0,2024
+chiapas,la trinitaria,178,15.0,2024
+chiapas,larrainzar,78,16.0,2024
+chiapas,las margaritas,376,21.0,2024
+chiapas,las rosas,192,27.0,2024
+chiapas,mapastepec,179,28.0,2024
+chiapas,maravilla tenejapa,35,4.0,2024
+chiapas,marques de comillas,20,3.0,2024
+chiapas,mazapa de madero,10,1.0,2024
+chiapas,mazatan,100,26.0,2024
+chiapas,metapa,12,3.0,2024
+chiapas,mezcalapa,93,14.0,2024
+chiapas,mitontic,8,,2024
+chiapas,montecristo de guerrero,42,7.0,2024
+chiapas,motozintla,437,33.0,2024
+chiapas,nicolas ruiz,15,5.0,2024
+chiapas,ocosingo,760,62.0,2024
+chiapas,ocotepec,35,6.0,2024
+chiapas,ocozocoautla de espinosa,408,37.0,2024
+chiapas,ostuacan,34,6.0,2024
+chiapas,osumacinta,12,1.0,2024
+chiapas,oxchuc,167,35.0,2024
+chiapas,palenque,423,47.0,2024
+chiapas,pantelho,98,13.0,2024
+chiapas,pantepec,22,5.0,2024
+chiapas,pichucalco,136,18.0,2024
+chiapas,pijijiapan,177,18.0,2024
+chiapas,pueblo nuevo solistahuacan,147,15.0,2024
+chiapas,rayon,65,12.0,2024
+chiapas,reforma,150,17.0,2024
+chiapas,rincon chamula san pedro,12,1.0,2024
+chiapas,sabanilla,72,8.0,2024
+chiapas,salto de agua,77,8.0,2024
+chiapas,san andres duraznal,18,3.0,2024
+chiapas,san cristobal de las casas,1879,136.0,2024
+chiapas,san fernando,94,10.0,2024
+chiapas,san juan cancuc,55,26.0,2024
+chiapas,san lucas,38,5.0,2024
+chiapas,santiago el pinar,2,,2024
+chiapas,siltepec,105,13.0,2024
+chiapas,simojovel,162,23.0,2024
+chiapas,sitala,33,7.0,2024
+chiapas,socoltenango,50,7.0,2024
+chiapas,solosuchiapa,16,6.0,2024
+chiapas,soyalo,39,6.0,2024
+chiapas,suchiapa,124,22.0,2024
+chiapas,suchiate,130,23.0,2024
+chiapas,sunuapa,9,1.0,2024
+chiapas,tapachula,1655,129.0,2024
+chiapas,tapalapa,23,3.0,2024
+chiapas,tapilula,102,10.0,2024
+chiapas,tecpatan,83,14.0,2024
+chiapas,tenejapa,49,12.0,2024
+chiapas,teopisca,220,19.0,2024
+chiapas,tila,259,23.0,2024
+chiapas,tonala,459,48.0,2024
+chiapas,totolapa,41,8.0,2024
+chiapas,tumbala,57,12.0,2024
+chiapas,tuxtla chico,66,12.0,2024
+chiapas,tuxtla gutierrez,3537,377.0,2024
+chiapas,tuzantan,13,,2024
+chiapas,tzimol,49,9.0,2024
+chiapas,union juarez,43,8.0,2024
+chiapas,venustiano carranza,293,45.0,2024
+chiapas,villa comaltitlan,91,15.0,2024
+chiapas,villa corzo,333,56.0,2024
+chiapas,villaflores,633,98.0,2024
+chiapas,yajalon,272,30.0,2024
+chiapas,zinacantan,50,12.0,2024
+chihuahua,ahumada,46,6.0,2024
+chihuahua,aldama,79,6.0,2024
+chihuahua,allende,24,6.0,2024
+chihuahua,aquiles serdan,14,1.0,2024
+chihuahua,ascension,88,14.0,2024
+chihuahua,bachiniva,8,1.0,2024
+chihuahua,balleza,16,3.0,2024
+chihuahua,batopilas de manuel gomez morin,6,,2024
+chihuahua,bocoyna,89,9.0,2024
+chihuahua,buenaventura,113,16.0,2024
+chihuahua,camargo,250,18.0,2024
+chihuahua,carichi,7,1.0,2024
+chihuahua,casas grandes,9,2.0,2024
+chihuahua,chihuahua,3653,384.0,2024
+chihuahua,chinipas,14,2.0,2024
+chihuahua,coronado,3,1.0,2024
+chihuahua,cuauhtemoc,870,95.0,2024
+chihuahua,delicias,722,67.0,2024
+chihuahua,dr. belisario dominguez,1,1.0,2024
+chihuahua,el tule,5,2.0,2024
+chihuahua,galeana,1,,2024
+chihuahua,guachochi,148,9.0,2024
+chihuahua,guadalupe,4,2.0,2024
+chihuahua,guadalupe y calvo,101,8.0,2024
+chihuahua,guazapares,14,2.0,2024
+chihuahua,guerrero,123,24.0,2024
+chihuahua,gomez farias,26,6.0,2024
+chihuahua,hidalgo del parral,761,48.0,2024
+chihuahua,huejotitan,2,,2024
+chihuahua,ignacio zaragoza,18,4.0,2024
+chihuahua,janos,16,5.0,2024
+chihuahua,jimenez,200,16.0,2024
+chihuahua,julimes,8,2.0,2024
+chihuahua,juarez,3939,502.0,2024
+chihuahua,la cruz,3,1.0,2024
+chihuahua,lopez,10,1.0,2024
+chihuahua,madera,102,12.0,2024
+chihuahua,maguarichi,2,,2024
+chihuahua,manuel benavides,2,1.0,2024
+chihuahua,matachi,7,3.0,2024
+chihuahua,matamoros,3,1.0,2024
+chihuahua,meoqui,155,17.0,2024
+chihuahua,morelos,1,,2024
+chihuahua,moris,8,1.0,2024
+chihuahua,namiquipa,80,11.0,2024
+chihuahua,nonoava,7,1.0,2024
+chihuahua,nuevo casas grandes,334,40.0,2024
+chihuahua,ocampo,22,2.0,2024
+chihuahua,ojinaga,94,15.0,2024
+chihuahua,praxedis g. guerrero,12,4.0,2024
+chihuahua,riva palacio,2,,2024
+chihuahua,rosales,21,2.0,2024
+chihuahua,san francisco de borja,1,,2024
+chihuahua,san francisco de conchos,3,1.0,2024
+chihuahua,san francisco del oro,12,2.0,2024
+chihuahua,santa barbara,49,5.0,2024
+chihuahua,santa isabel,16,4.0,2024
+chihuahua,satevo,1,,2024
+chihuahua,saucillo,83,10.0,2024
+chihuahua,temosachic,6,2.0,2024
+chihuahua,urique,10,1.0,2024
+chihuahua,uruachi,2,,2024
+chihuahua,valle de zaragoza,19,4.0,2024
+ciudad de mexico,azcapotzalco,1979,300.0,2024
+ciudad de mexico,benito juarez,2302,263.0,2024
+ciudad de mexico,coyoacan,2863,417.0,2024
+ciudad de mexico,cuajimalpa de morelos,1023,103.0,2024
+ciudad de mexico,cuauhtemoc,15910,420.0,2024
+ciudad de mexico,gustavo a. madero,6286,831.0,2024
+ciudad de mexico,iztacalco,1821,297.0,2024
+ciudad de mexico,iztapalapa,9050,1517.0,2024
+ciudad de mexico,la magdalena contreras,880,133.0,2024
+ciudad de mexico,miguel hidalgo,2760,235.0,2024
+ciudad de mexico,milpa alta,982,147.0,2024
+ciudad de mexico,tlalpan,2988,482.0,2024
+ciudad de mexico,tlahuac,2105,373.0,2024
+ciudad de mexico,venustiano carranza,4345,362.0,2024
+ciudad de mexico,xochimilco,2119,359.0,2024
+ciudad de mexico,alvaro obregon,2689,413.0,2024
+coahuila de zaragoza,acuna,379,42.0,2024
+coahuila de zaragoza,allende,91,5.0,2024
+coahuila de zaragoza,arteaga,30,4.0,2024
+coahuila de zaragoza,candela,3,3.0,2024
+coahuila de zaragoza,castanos,83,6.0,2024
+coahuila de zaragoza,cuatro cienegas,36,6.0,2024
+coahuila de zaragoza,escobedo,1,,2024
+coahuila de zaragoza,francisco i. madero,237,31.0,2024
+coahuila de zaragoza,frontera,204,29.0,2024
+coahuila de zaragoza,general cepeda,32,6.0,2024
+coahuila de zaragoza,guerrero,1,,2024
+coahuila de zaragoza,hidalgo,2,1.0,2024
+coahuila de zaragoza,jimenez,6,2.0,2024
+coahuila de zaragoza,juarez,4,2.0,2024
+coahuila de zaragoza,lamadrid,3,1.0,2024
+coahuila de zaragoza,matamoros,319,40.0,2024
+coahuila de zaragoza,monclova,1022,102.0,2024
+coahuila de zaragoza,morelos,11,2.0,2024
+coahuila de zaragoza,muzquiz,189,14.0,2024
+coahuila de zaragoza,nadadores,6,,2024
+coahuila de zaragoza,nava,85,7.0,2024
+coahuila de zaragoza,ocampo,17,2.0,2024
+coahuila de zaragoza,parras,160,12.0,2024
+coahuila de zaragoza,piedras negras,435,57.0,2024
+coahuila de zaragoza,progreso,1,,2024
+coahuila de zaragoza,ramos arizpe,280,25.0,2024
+coahuila de zaragoza,sabinas,217,13.0,2024
+coahuila de zaragoza,sacramento,4,2.0,2024
+coahuila de zaragoza,saltillo,2923,261.0,2024
+coahuila de zaragoza,san buenaventura,77,5.0,2024
+coahuila de zaragoza,san juan de sabinas,143,7.0,2024
+coahuila de zaragoza,san pedro,277,35.0,2024
+coahuila de zaragoza,sierra mojada,23,2.0,2024
+coahuila de zaragoza,torreon,2557,399.0,2024
+coahuila de zaragoza,viesca,8,1.0,2024
+coahuila de zaragoza,villa union,12,2.0,2024
+coahuila de zaragoza,zaragoza,31,4.0,2024
+colima,armeria,128,13.0,2024
+colima,colima,1031,119.0,2024
+colima,comala,76,12.0,2024
+colima,coquimatlan,70,12.0,2024
+colima,cuauhtemoc,148,19.0,2024
+colima,ixtlahuacan,16,3.0,2024
+colima,manzanillo,817,84.0,2024
+colima,minatitlan,49,5.0,2024
+colima,tecoman,540,61.0,2024
+colima,villa de alvarez,452,62.0,2024
+durango,canatlan,121,12.0,2024
+durango,canelas,12,3.0,2024
+durango,coneto de comonfort,7,1.0,2024
+durango,cuencame,130,21.0,2024
+durango,durango,2784,310.0,2024
+durango,el oro,72,11.0,2024
+durango,general simon bolivar,10,3.0,2024
+durango,guadalupe victoria,205,14.0,2024
+durango,guanacevi,34,6.0,2024
+durango,gomez palacio,1009,131.0,2024
+durango,hidalgo,6,1.0,2024
+durango,inde,5,2.0,2024
+durango,lerdo,380,67.0,2024
+durango,mapimi,76,11.0,2024
+durango,mezquital,15,1.0,2024
+durango,nazas,40,4.0,2024
+durango,nombre de dios,41,5.0,2024
+durango,nuevo ideal,105,11.0,2024
+durango,ocampo,29,8.0,2024
+durango,otaez,5,,2024
+durango,penon blanco,37,6.0,2024
+durango,poanas,103,9.0,2024
+durango,pueblo nuevo,179,11.0,2024
+durango,panuco de coronado,44,10.0,2024
+durango,rodeo,71,7.0,2024
+durango,san bernardo,2,,2024
+durango,san dimas,45,2.0,2024
+durango,san juan de guadalupe,17,4.0,2024
+durango,san juan del rio,39,7.0,2024
+durango,san luis del cordero,6,3.0,2024
+durango,san pedro del gallo,1,,2024
+durango,santa clara,14,3.0,2024
+durango,santiago papasquiaro,269,20.0,2024
+durango,suchil,17,2.0,2024
+durango,tamazula,31,2.0,2024
+durango,tepehuanes,53,6.0,2024
+durango,tlahualilo,47,7.0,2024
+durango,topia,26,2.0,2024
+durango,vicente guerrero,224,14.0,2024
+guanajuato,abasolo,302,28.0,2024
+guanajuato,acambaro,696,91.0,2024
+guanajuato,apaseo el alto,493,30.0,2024
+guanajuato,apaseo el grande,336,34.0,2024
+guanajuato,atarjea,5,2.0,2024
+guanajuato,celaya,2665,285.0,2024
+guanajuato,comonfort,456,30.0,2024
+guanajuato,coroneo,94,13.0,2024
+guanajuato,cortazar,620,54.0,2024
+guanajuato,cueramaro,255,20.0,2024
+guanajuato,doctor mora,86,10.0,2024
+guanajuato,dolores hidalgo cuna de la independencia nacional,727,53.0,2024
+guanajuato,guanajuato,711,69.0,2024
+guanajuato,huanimaro,88,13.0,2024
+guanajuato,irapuato,2897,292.0,2024
+guanajuato,jaral del progreso,199,20.0,2024
+guanajuato,jerecuaro,161,15.0,2024
+guanajuato,leon,9608,841.0,2024
+guanajuato,manuel doblado,174,9.0,2024
+guanajuato,moroleon,1797,44.0,2024
+guanajuato,ocampo,95,10.0,2024
+guanajuato,pueblo nuevo,77,14.0,2024
+guanajuato,purisima del rincon,278,17.0,2024
+guanajuato,penjamo,650,69.0,2024
+guanajuato,romita,275,20.0,2024
+guanajuato,salamanca,1221,90.0,2024
+guanajuato,salvatierra,583,81.0,2024
+guanajuato,san diego de la union,136,12.0,2024
+guanajuato,san felipe,532,47.0,2024
+guanajuato,san francisco del rincon,1096,47.0,2024
+guanajuato,san jose iturbide,593,42.0,2024
+guanajuato,san luis de la paz,754,34.0,2024
+guanajuato,san miguel de allende,933,72.0,2024
+guanajuato,santa catarina,40,3.0,2024
+guanajuato,santa cruz de juventino rosas,542,53.0,2024
+guanajuato,santiago maravatio,28,4.0,2024
+guanajuato,silao de la victoria,824,88.0,2024
+guanajuato,tarandacuao,72,11.0,2024
+guanajuato,tarimoro,177,22.0,2024
+guanajuato,tierra blanca,44,5.0,2024
+guanajuato,uriangato,1359,36.0,2024
+guanajuato,valle de santiago,589,62.0,2024
+guanajuato,victoria,53,6.0,2024
+guanajuato,villagran,381,21.0,2024
+guanajuato,xichu,51,4.0,2024
+guanajuato,yuriria,350,33.0,2024
+guerrero,acapulco de juarez,3420,259.0,2024
+guerrero,acatepec,37,4.0,2024
+guerrero,ahuacuotzingo,41,4.0,2024
+guerrero,ajuchitlan del progreso,108,20.0,2024
+guerrero,alcozauca de guerrero,53,7.0,2024
+guerrero,alpoyeca,44,3.0,2024
+guerrero,apaxtla,57,7.0,2024
+guerrero,arcelia,233,25.0,2024
+guerrero,atenango del rio,16,3.0,2024
+guerrero,atlamajalcingo del monte,2,1.0,2024
+guerrero,atlixtac,52,5.0,2024
+guerrero,atoyac de alvarez,301,21.0,2024
+guerrero,ayutla de los libres,208,30.0,2024
+guerrero,azoyu,44,5.0,2024
+guerrero,benito juarez,48,10.0,2024
+guerrero,buenavista de cuellar,49,9.0,2024
+guerrero,chilapa de alvarez,708,38.0,2024
+guerrero,chilpancingo de los bravo,1626,84.0,2024
+guerrero,coahuayutla de jose maria izazaga,21,4.0,2024
+guerrero,cochoapa el grande,16,4.0,2024
+guerrero,cocula,46,10.0,2024
+guerrero,copala,64,9.0,2024
+guerrero,copalillo,48,3.0,2024
+guerrero,copanatoyac,30,7.0,2024
+guerrero,coyuca de benitez,180,16.0,2024
+guerrero,coyuca de catalan,43,6.0,2024
+guerrero,cuajinicuilapa,104,13.0,2024
+guerrero,cualac,13,1.0,2024
+guerrero,cuautepec,40,7.0,2024
+guerrero,cuetzala del progreso,9,2.0,2024
+guerrero,cutzamala de pinzon,53,6.0,2024
+guerrero,eduardo neri,300,20.0,2024
+guerrero,florencio villarreal,147,12.0,2024
+guerrero,general canuto a. neri,15,2.0,2024
+guerrero,general heliodoro castillo,126,11.0,2024
+guerrero,huamuxtitlan,83,8.0,2024
+guerrero,huitzuco de los figueroa,227,18.0,2024
+guerrero,iguala de la independencia,1645,105.0,2024
+guerrero,igualapa,25,2.0,2024
+guerrero,iliatenco,41,2.0,2024
+guerrero,ixcateopan de cuauhtemoc,27,4.0,2024
+guerrero,jose joaquin de herrera,26,2.0,2024
+guerrero,juan r. escudero,112,10.0,2024
+guerrero,juchitan,18,4.0,2024
+guerrero,la union de isidoro montes de oca,39,4.0,2024
+guerrero,las vigas,56,6.0,2024
+guerrero,leonardo bravo,94,6.0,2024
+guerrero,malinaltepec,10,2.0,2024
+guerrero,marquelia,81,10.0,2024
+guerrero,metlatonoc,70,8.0,2024
+guerrero,mochitlan,46,6.0,2024
+guerrero,martir de cuilapan,41,2.0,2024
+guerrero,olinala,148,9.0,2024
+guerrero,ometepec,349,31.0,2024
+guerrero,pedro ascencio alquisiras,6,2.0,2024
+guerrero,petatlan,239,15.0,2024
+guerrero,pilcaya,72,8.0,2024
+guerrero,pungarabato,450,41.0,2024
+guerrero,quechultenango,129,10.0,2024
+guerrero,san luis acatlan,174,27.0,2024
+guerrero,san marcos,205,26.0,2024
+guerrero,san miguel totolapan,35,6.0,2024
+guerrero,san nicolas,12,3.0,2024
+guerrero,taxco de alarcon,2645,42.0,2024
+guerrero,tecoanapa,98,12.0,2024
+guerrero,teloloapan,218,16.0,2024
+guerrero,tepecoacuilco de trujano,46,8.0,2024
+guerrero,tetipac,23,3.0,2024
+guerrero,tixtla de guerrero,295,19.0,2024
+guerrero,tlacoachistlahuaca,34,3.0,2024
+guerrero,tlacoapa,19,1.0,2024
+guerrero,tlalchapa,29,5.0,2024
+guerrero,tlalixtaquilla de maldonado,33,3.0,2024
+guerrero,tlapa de comonfort,674,32.0,2024
+guerrero,tlapehuala,80,12.0,2024
+guerrero,tecpan de galeana,308,24.0,2024
+guerrero,xalpatlahuac,27,3.0,2024
+guerrero,xochihuehuetlan,41,5.0,2024
+guerrero,xochistlahuaca,83,8.0,2024
+guerrero,zapotitlan tablas,29,3.0,2024
+guerrero,zihuatanejo de azueta,816,62.0,2024
+guerrero,zirandaro,41,8.0,2024
+guerrero,zitlala,31,3.0,2024
+hidalgo,acatlan,51,10.0,2024
+hidalgo,acaxochitlan,129,19.0,2024
+hidalgo,actopan,525,41.0,2024
+hidalgo,agua blanca de iturbide,44,7.0,2024
+hidalgo,ajacuba,102,10.0,2024
+hidalgo,alfajayucan,64,12.0,2024
+hidalgo,almoloya,43,5.0,2024
+hidalgo,apan,304,27.0,2024
+hidalgo,atitalaquia,153,27.0,2024
+hidalgo,atlapexco,42,10.0,2024
+hidalgo,atotonilco de tula,172,28.0,2024
+hidalgo,atotonilco el grande,168,24.0,2024
+hidalgo,calnali,57,9.0,2024
+hidalgo,cardonal,10,3.0,2024
+hidalgo,chapantongo,32,7.0,2024
+hidalgo,chapulhuacan,76,5.0,2024
+hidalgo,chilcuautla,13,5.0,2024
+hidalgo,cuautepec de hinojosa,233,34.0,2024
+hidalgo,el arenal,23,3.0,2024
+hidalgo,eloxochitlan,4,1.0,2024
+hidalgo,emiliano zapata,102,17.0,2024
+hidalgo,epazoyucan,22,6.0,2024
+hidalgo,francisco i. madero,212,28.0,2024
+hidalgo,huasca de ocampo,30,8.0,2024
+hidalgo,huautla,32,6.0,2024
+hidalgo,huazalingo,12,3.0,2024
+hidalgo,huehuetla,60,8.0,2024
+hidalgo,huejutla de reyes,681,92.0,2024
+hidalgo,huichapan,208,24.0,2024
+hidalgo,ixmiquilpan,810,72.0,2024
+hidalgo,jacala de ledezma,67,10.0,2024
+hidalgo,jaltocan,33,9.0,2024
+hidalgo,juarez hidalgo,4,2.0,2024
+hidalgo,la mision,11,1.0,2024
+hidalgo,lolotla,4,2.0,2024
+hidalgo,metepec,33,8.0,2024
+hidalgo,metztitlan,63,10.0,2024
+hidalgo,mineral de la reforma,633,122.0,2024
+hidalgo,mineral del chico,5,1.0,2024
+hidalgo,mineral del monte,117,10.0,2024
+hidalgo,mixquiahuala de juarez,324,28.0,2024
+hidalgo,molango de escamilla,59,12.0,2024
+hidalgo,nicolas flores,9,1.0,2024
+hidalgo,nopala de villagran,21,5.0,2024
+hidalgo,omitlan de juarez,19,3.0,2024
+hidalgo,pachuca de soto,2685,319.0,2024
+hidalgo,pacula,3,1.0,2024
+hidalgo,pisaflores,40,9.0,2024
+hidalgo,progreso de obregon,265,29.0,2024
+hidalgo,san agustin metzquititlan,24,6.0,2024
+hidalgo,san agustin tlaxiaca,120,10.0,2024
+hidalgo,san bartolo tutotepec,62,9.0,2024
+hidalgo,san felipe orizatlan,120,21.0,2024
+hidalgo,san salvador,68,12.0,2024
+hidalgo,santiago tulantepec de lugo guerrero,121,20.0,2024
+hidalgo,santiago de anaya,16,3.0,2024
+hidalgo,singuilucan,63,9.0,2024
+hidalgo,tasquillo,75,15.0,2024
+hidalgo,tecozautla,101,17.0,2024
+hidalgo,tenango de doria,51,8.0,2024
+hidalgo,tepeapulco,384,41.0,2024
+hidalgo,tepehuacan de guerrero,18,3.0,2024
+hidalgo,tepeji del rio de ocampo,400,39.0,2024
+hidalgo,tepetitlan,21,5.0,2024
+hidalgo,tetepango,57,10.0,2024
+hidalgo,tezontepec de aldama,371,31.0,2024
+hidalgo,tianguistengo,19,3.0,2024
+hidalgo,tizayuca,777,115.0,2024
+hidalgo,tlahuelilpan,118,15.0,2024
+hidalgo,tlahuiltepa,6,2.0,2024
+hidalgo,tlanalapa,66,13.0,2024
+hidalgo,tlanchinol,77,14.0,2024
+hidalgo,tlaxcoapan,297,42.0,2024
+hidalgo,tolcayuca,96,12.0,2024
+hidalgo,tula de allende,687,59.0,2024
+hidalgo,tulancingo de bravo,1589,186.0,2024
+hidalgo,villa de tezontepec,126,18.0,2024
+hidalgo,xochiatipan,30,7.0,2024
+hidalgo,xochicoatlan,11,2.0,2024
+hidalgo,yahualica,25,5.0,2024
+hidalgo,zacualtipan de angeles,256,26.0,2024
+hidalgo,zapotlan de juarez,165,30.0,2024
+hidalgo,zempoala,159,28.0,2024
+hidalgo,zimapan,217,18.0,2024
+jalisco,acatic,112,12.0,2024
+jalisco,acatlan de juarez,145,12.0,2024
+jalisco,ahualulco de mercado,157,13.0,2024
+jalisco,amacueca,15,3.0,2024
+jalisco,amatitan,87,9.0,2024
+jalisco,ameca,315,40.0,2024
+jalisco,arandas,760,73.0,2024
+jalisco,atemajac de brizuela,26,6.0,2024
+jalisco,atengo,12,3.0,2024
+jalisco,atenguillo,15,7.0,2024
+jalisco,atotonilco el alto,429,42.0,2024
+jalisco,atoyac,37,6.0,2024
+jalisco,autlan de navarro,366,38.0,2024
+jalisco,ayotlan,313,26.0,2024
+jalisco,ayutla,67,10.0,2024
+jalisco,bolanos,15,2.0,2024
+jalisco,cabo corrientes,40,5.0,2024
+jalisco,casimiro castillo,136,18.0,2024
+jalisco,canadas de obregon,14,4.0,2024
+jalisco,chapala,317,46.0,2024
+jalisco,chimaltitan,3,,2024
+jalisco,chiquilistlan,20,5.0,2024
+jalisco,cihuatlan,261,25.0,2024
+jalisco,cocula,120,15.0,2024
+jalisco,colotlan,159,14.0,2024
+jalisco,concepcion de buenos aires,45,8.0,2024
+jalisco,cuautitlan de garcia barragan,33,9.0,2024
+jalisco,cuautla,5,3.0,2024
+jalisco,cuquio,81,14.0,2024
+jalisco,degollado,141,19.0,2024
+jalisco,ejutla,7,3.0,2024
+jalisco,el arenal,77,10.0,2024
+jalisco,el grullo,197,20.0,2024
+jalisco,el limon,12,3.0,2024
+jalisco,el salto,624,91.0,2024
+jalisco,encarnacion de diaz,351,28.0,2024
+jalisco,etzatlan,142,14.0,2024
+jalisco,guachinango,8,1.0,2024
+jalisco,guadalajara,13185,1072.0,2024
+jalisco,gomez farias,75,9.0,2024
+jalisco,hostotipaquillo,20,3.0,2024
+jalisco,huejuquilla el alto,76,10.0,2024
+jalisco,huejucar,33,4.0,2024
+jalisco,ixtlahuacan de los membrillos,118,15.0,2024
+jalisco,ixtlahuacan del rio,97,16.0,2024
+jalisco,jalostotitlan,213,13.0,2024
+jalisco,jamay,149,18.0,2024
+jalisco,jesus maria,107,8.0,2024
+jalisco,jilotlan de los dolores,11,2.0,2024
+jalisco,jocotepec,213,19.0,2024
+jalisco,juanacatlan,47,5.0,2024
+jalisco,juchitlan,32,8.0,2024
+jalisco,la barca,477,59.0,2024
+jalisco,la huerta,115,18.0,2024
+jalisco,la manzanilla de la paz,23,9.0,2024
+jalisco,lagos de moreno,875,73.0,2024
+jalisco,magdalena,103,8.0,2024
+jalisco,mascota,62,11.0,2024
+jalisco,mazamitla,138,11.0,2024
+jalisco,mexticacan,20,4.0,2024
+jalisco,mezquitic,22,5.0,2024
+jalisco,mixtlan,9,2.0,2024
+jalisco,ocotlan,796,66.0,2024
+jalisco,ojuelos de jalisco,158,13.0,2024
+jalisco,pihuamo,58,13.0,2024
+jalisco,poncitlan,317,24.0,2024
+jalisco,puerto vallarta,1637,243.0,2024
+jalisco,quitupan,16,4.0,2024
+jalisco,san cristobal de la barranca,7,2.0,2024
+jalisco,san diego de alejandria,39,8.0,2024
+jalisco,san gabriel,45,6.0,2024
+jalisco,san ignacio cerro gordo,86,8.0,2024
+jalisco,san juan de los lagos,785,31.0,2024
+jalisco,san juanito de escobedo,41,6.0,2024
+jalisco,san julian,133,12.0,2024
+jalisco,san marcos,12,2.0,2024
+jalisco,san martin hidalgo,133,19.0,2024
+jalisco,san martin de bolanos,17,5.0,2024
+jalisco,san miguel el alto,239,15.0,2024
+jalisco,san pedro tlaquepaque,2224,291.0,2024
+jalisco,san sebastian del oeste,9,1.0,2024
+jalisco,santa maria de los angeles,6,1.0,2024
+jalisco,santa maria del oro,3,1.0,2024
+jalisco,sayula,215,28.0,2024
+jalisco,tala,348,39.0,2024
+jalisco,talpa de allende,107,15.0,2024
+jalisco,tamazula de gordiano,208,20.0,2024
+jalisco,tapalpa,87,15.0,2024
+jalisco,tecalitlan,117,10.0,2024
+jalisco,techaluta de montenegro,10,3.0,2024
+jalisco,tecolotlan,100,13.0,2024
+jalisco,tenamaxtlan,55,13.0,2024
+jalisco,teocaltiche,232,24.0,2024
+jalisco,teocuitatlan de corona,36,10.0,2024
+jalisco,tepatitlan de morelos,966,91.0,2024
+jalisco,tequila,254,21.0,2024
+jalisco,teuchitlan,32,4.0,2024
+jalisco,tizapan el alto,125,16.0,2024
+jalisco,tlajomulco de zuniga,1750,228.0,2024
+jalisco,toliman,27,5.0,2024
+jalisco,tomatlan,177,27.0,2024
+jalisco,tonala,1742,275.0,2024
+jalisco,tonaya,33,9.0,2024
+jalisco,tonila,44,6.0,2024
+jalisco,totatiche,6,4.0,2024
+jalisco,tototlan,144,21.0,2024
+jalisco,tuxcacuesco,8,2.0,2024
+jalisco,tuxcueca,32,4.0,2024
+jalisco,tuxpan,252,23.0,2024
+jalisco,union de san antonio,88,6.0,2024
+jalisco,union de tula,98,12.0,2024
+jalisco,valle de guadalupe,32,4.0,2024
+jalisco,valle de juarez,38,6.0,2024
+jalisco,villa corona,92,11.0,2024
+jalisco,villa guerrero,28,6.0,2024
+jalisco,villa hidalgo,954,15.0,2024
+jalisco,villa purificacion,62,11.0,2024
+jalisco,yahualica de gonzalez gallo,132,15.0,2024
+jalisco,zacoalco de torres,175,16.0,2024
+jalisco,zapopan,5204,675.0,2024
+jalisco,zapotiltic,163,18.0,2024
+jalisco,zapotitlan de vadillo,29,3.0,2024
+jalisco,zapotlanejo,1064,38.0,2024
+jalisco,zapotlan del rey,40,7.0,2024
+jalisco,zapotlan el grande,757,68.0,2024
+michoacan de ocampo,acuitzio,68,11.0,2024
+michoacan de ocampo,aguililla,83,16.0,2024
+michoacan de ocampo,angamacutiro,74,18.0,2024
+michoacan de ocampo,angangueo,44,9.0,2024
+michoacan de ocampo,apatzingan,724,74.0,2024
+michoacan de ocampo,aporo,13,3.0,2024
+michoacan de ocampo,aquila,21,5.0,2024
+michoacan de ocampo,ario,224,24.0,2024
+michoacan de ocampo,arteaga,99,10.0,2024
+michoacan de ocampo,brisenas,30,2.0,2024
+michoacan de ocampo,buenavista,211,35.0,2024
+michoacan de ocampo,caracuaro,43,6.0,2024
+michoacan de ocampo,charapan,66,13.0,2024
+michoacan de ocampo,charo,37,10.0,2024
+michoacan de ocampo,chavinda,58,9.0,2024
+michoacan de ocampo,cheran,325,35.0,2024
+michoacan de ocampo,chilchota,218,33.0,2024
+michoacan de ocampo,chinicuila,8,1.0,2024
+michoacan de ocampo,chucandiro,14,4.0,2024
+michoacan de ocampo,churintzio,31,10.0,2024
+michoacan de ocampo,churumuco,62,11.0,2024
+michoacan de ocampo,coahuayana,55,6.0,2024
+michoacan de ocampo,coalcoman de vazquez pallares,107,17.0,2024
+michoacan de ocampo,coeneo,71,13.0,2024
+michoacan de ocampo,cojumatlan de regules,62,12.0,2024
+michoacan de ocampo,contepec,54,9.0,2024
+michoacan de ocampo,copandaro,28,7.0,2024
+michoacan de ocampo,cotija,138,20.0,2024
+michoacan de ocampo,cuitzeo,290,15.0,2024
+michoacan de ocampo,ecuandureo,52,11.0,2024
+michoacan de ocampo,epitacio huerta,42,8.0,2024
+michoacan de ocampo,erongaricuaro,28,8.0,2024
+michoacan de ocampo,gabriel zamora,94,12.0,2024
+michoacan de ocampo,hidalgo,1078,104.0,2024
+michoacan de ocampo,huandacareo,82,16.0,2024
+michoacan de ocampo,huaniqueo,29,7.0,2024
+michoacan de ocampo,huetamo,231,32.0,2024
+michoacan de ocampo,huiramba,36,7.0,2024
+michoacan de ocampo,indaparapeo,86,12.0,2024
+michoacan de ocampo,irimbo,63,10.0,2024
+michoacan de ocampo,ixtlan,42,5.0,2024
+michoacan de ocampo,jacona,332,40.0,2024
+michoacan de ocampo,jimenez,39,10.0,2024
+michoacan de ocampo,jiquilpan,259,39.0,2024
+michoacan de ocampo,jose sixto verduzco,143,23.0,2024
+michoacan de ocampo,jungapeo,61,11.0,2024
+michoacan de ocampo,juarez,43,6.0,2024
+michoacan de ocampo,la huacana,159,16.0,2024
+michoacan de ocampo,la piedad,817,106.0,2024
+michoacan de ocampo,lagunillas,31,7.0,2024
+michoacan de ocampo,los reyes,545,54.0,2024
+michoacan de ocampo,lazaro cardenas,1041,108.0,2024
+michoacan de ocampo,madero,82,14.0,2024
+michoacan de ocampo,maravatio,414,53.0,2024
+michoacan de ocampo,marcos castellanos,120,9.0,2024
+michoacan de ocampo,morelia,5512,647.0,2024
+michoacan de ocampo,morelos,40,12.0,2024
+michoacan de ocampo,mugica,289,34.0,2024
+michoacan de ocampo,nahuatzen,207,30.0,2024
+michoacan de ocampo,nocupetaro,31,10.0,2024
+michoacan de ocampo,nuevo parangaricutiro,298,34.0,2024
+michoacan de ocampo,nuevo urecho,17,3.0,2024
+michoacan de ocampo,numaran,33,10.0,2024
+michoacan de ocampo,ocampo,83,12.0,2024
+michoacan de ocampo,pajacuaran,117,18.0,2024
+michoacan de ocampo,panindicuaro,64,14.0,2024
+michoacan de ocampo,paracho,322,45.0,2024
+michoacan de ocampo,paracuaro,90,16.0,2024
+michoacan de ocampo,penjamillo,57,12.0,2024
+michoacan de ocampo,periban,126,16.0,2024
+michoacan de ocampo,puruandiro,494,60.0,2024
+michoacan de ocampo,purepero,156,21.0,2024
+michoacan de ocampo,patzcuaro,771,91.0,2024
+michoacan de ocampo,querendaro,72,10.0,2024
+michoacan de ocampo,quiroga,266,28.0,2024
+michoacan de ocampo,sahuayo,850,70.0,2024
+michoacan de ocampo,salvador escalante,272,33.0,2024
+michoacan de ocampo,san lucas,32,8.0,2024
+michoacan de ocampo,santa ana maya,67,13.0,2024
+michoacan de ocampo,senguio,39,8.0,2024
+michoacan de ocampo,susupuato,6,2.0,2024
+michoacan de ocampo,tacambaro,375,42.0,2024
+michoacan de ocampo,tancitaro,172,14.0,2024
+michoacan de ocampo,tangamandapio,212,22.0,2024
+michoacan de ocampo,tangancicuaro,194,22.0,2024
+michoacan de ocampo,tanhuato,74,8.0,2024
+michoacan de ocampo,taretan,81,9.0,2024
+michoacan de ocampo,tarimbaro,208,36.0,2024
+michoacan de ocampo,tepalcatepec,178,31.0,2024
+michoacan de ocampo,tingambato,207,27.0,2024
+michoacan de ocampo,tinguindin,71,8.0,2024
+michoacan de ocampo,tiquicheo de nicolas romero,40,9.0,2024
+michoacan de ocampo,tlalpujahua,89,12.0,2024
+michoacan de ocampo,tlazazalca,38,6.0,2024
+michoacan de ocampo,tocumbo,40,7.0,2024
+michoacan de ocampo,tumbiscatio,14,3.0,2024
+michoacan de ocampo,turicato,151,22.0,2024
+michoacan de ocampo,tuxpan,139,18.0,2024
+michoacan de ocampo,tuzantla,74,12.0,2024
+michoacan de ocampo,tzintzuntzan,50,9.0,2024
+michoacan de ocampo,tzitzio,4,,2024
+michoacan de ocampo,uruapan,3008,293.0,2024
+michoacan de ocampo,venustiano carranza,128,18.0,2024
+michoacan de ocampo,villamar,38,12.0,2024
+michoacan de ocampo,vista hermosa,80,12.0,2024
+michoacan de ocampo,yurecuaro,288,30.0,2024
+michoacan de ocampo,zacapu,575,57.0,2024
+michoacan de ocampo,zamora,1490,175.0,2024
+michoacan de ocampo,zinapecuaro,235,32.0,2024
+michoacan de ocampo,zinaparo,17,6.0,2024
+michoacan de ocampo,ziracuaretiro,73,7.0,2024
+michoacan de ocampo,zitacuaro,987,70.0,2024
+michoacan de ocampo,alvaro obregon,90,14.0,2024
+morelos,amacuzac,46,4.0,2024
+morelos,atlatlahucan,103,15.0,2024
+morelos,axochiapan,273,27.0,2024
+morelos,ayala,261,36.0,2024
+morelos,coatetelco,51,3.0,2024
+morelos,coatlan del rio,30,2.0,2024
+morelos,cuautla,1741,153.0,2024
+morelos,cuernavaca,3047,251.0,2024
+morelos,emiliano zapata,369,35.0,2024
+morelos,hueyapan,43,3.0,2024
+morelos,huitzilac,106,15.0,2024
+morelos,jantetelco,113,14.0,2024
+morelos,jiutepec,911,103.0,2024
+morelos,jojutla,536,37.0,2024
+morelos,jonacatepec de leandro valle,114,12.0,2024
+morelos,mazatepec,41,4.0,2024
+morelos,miacatlan,98,13.0,2024
+morelos,ocuituco,74,16.0,2024
+morelos,puente de ixtla,259,22.0,2024
+morelos,temixco,587,62.0,2024
+morelos,temoac,83,5.0,2024
+morelos,tepalcingo,178,18.0,2024
+morelos,tepoztlan,176,18.0,2024
+morelos,tetecala,44,8.0,2024
+morelos,tetela del volcan,115,14.0,2024
+morelos,tlalnepantla,21,2.0,2024
+morelos,tlaltizapan de zapata,186,25.0,2024
+morelos,tlaquiltenango,88,9.0,2024
+morelos,tlayacapan,72,11.0,2024
+morelos,totolapan,36,5.0,2024
+morelos,xochitepec,300,30.0,2024
+morelos,xoxocotla,117,9.0,2024
+morelos,yautepec,617,59.0,2024
+morelos,yecapixtla,222,38.0,2024
+morelos,zacatepec,182,25.0,2024
+morelos,zacualpan de amilpas,71,7.0,2024
+mexico,acambay de ruiz castaneda,211,21.0,2024
+mexico,acolman,736,137.0,2024
+mexico,aculco,126,15.0,2024
+mexico,almoloya de alquisiras,103,10.0,2024
+mexico,almoloya de juarez,397,38.0,2024
+mexico,almoloya del rio,54,6.0,2024
+mexico,amanalco,66,7.0,2024
+mexico,amatepec,110,16.0,2024
+mexico,amecameca,351,32.0,2024
+mexico,apaxco,205,16.0,2024
+mexico,atenco,248,51.0,2024
+mexico,atizapan,48,11.0,2024
+mexico,atizapan de zaragoza,2405,429.0,2024
+mexico,atlacomulco,911,73.0,2024
+mexico,atlautla,150,21.0,2024
+mexico,axapusco,104,19.0,2024
+mexico,ayapango,22,4.0,2024
+mexico,calimaya,228,28.0,2024
+mexico,capulhuac,174,28.0,2024
+mexico,chalco,2094,268.0,2024
+mexico,chapa de mota,78,7.0,2024
+mexico,chapultepec,54,13.0,2024
+mexico,chiautla,96,16.0,2024
+mexico,chicoloapan,934,167.0,2024
+mexico,chiconcuac,983,23.0,2024
+mexico,chimalhuacan,3772,533.0,2024
+mexico,coacalco de berriozabal,1373,209.0,2024
+mexico,coatepec harinas,153,14.0,2024
+mexico,cocotitlan,64,11.0,2024
+mexico,coyotepec,262,37.0,2024
+mexico,cuautitlan,817,96.0,2024
+mexico,cuautitlan izcalli,2336,354.0,2024
+mexico,donato guerra,82,6.0,2024
+mexico,ecatepec de morelos,9273,1471.0,2024
+mexico,ecatzingo,39,4.0,2024
+mexico,el oro,103,9.0,2024
+mexico,huehuetoca,585,70.0,2024
+mexico,hueypoxtla,259,53.0,2024
+mexico,huixquilucan,1130,142.0,2024
+mexico,isidro fabela,45,6.0,2024
+mexico,ixtapaluca,2582,435.0,2024
+mexico,ixtapan de la sal,318,19.0,2024
+mexico,ixtapan del oro,20,6.0,2024
+mexico,ixtlahuaca,841,65.0,2024
+mexico,jaltenco,115,26.0,2024
+mexico,jilotepec,362,47.0,2024
+mexico,jilotzingo,71,13.0,2024
+mexico,jiquipilco,100,15.0,2024
+mexico,jocotitlan,238,37.0,2024
+mexico,joquicingo,62,7.0,2024
+mexico,juchitepec,169,26.0,2024
+mexico,la paz,1684,288.0,2024
+mexico,lerma,882,83.0,2024
+mexico,luvianos,140,18.0,2024
+mexico,malinalco,149,8.0,2024
+mexico,melchor ocampo,224,41.0,2024
+mexico,metepec,1344,141.0,2024
+mexico,mexicaltzingo,98,11.0,2024
+mexico,morelos,120,12.0,2024
+mexico,naucalpan de juarez,4256,548.0,2024
+mexico,nextlalpan,155,33.0,2024
+mexico,nezahualcoyotl,5957,943.0,2024
+mexico,nicolas romero,2098,319.0,2024
+mexico,nopaltepec,71,14.0,2024
+mexico,ocoyoacac,398,55.0,2024
+mexico,ocuilan,83,10.0,2024
+mexico,otumba,191,28.0,2024
+mexico,otzoloapan,16,2.0,2024
+mexico,otzolotepec,303,28.0,2024
+mexico,ozumba,180,32.0,2024
+mexico,papalotla,20,8.0,2024
+mexico,polotitlan,63,9.0,2024
+mexico,rayon,87,12.0,2024
+mexico,san antonio la isla,115,16.0,2024
+mexico,san felipe del progreso,537,47.0,2024
+mexico,san jose del rincon,121,10.0,2024
+mexico,san martin de las piramides,124,14.0,2024
+mexico,san mateo atenco,2482,71.0,2024
+mexico,san simon de guerrero,13,2.0,2024
+mexico,santo tomas,18,4.0,2024
+mexico,soyaniquilpan de juarez,27,4.0,2024
+mexico,sultepec,61,7.0,2024
+mexico,tecamac,2242,372.0,2024
+mexico,tejupilco,501,52.0,2024
+mexico,temamatla,48,7.0,2024
+mexico,temascalapa,239,41.0,2024
+mexico,temascalcingo,236,23.0,2024
+mexico,temascaltepec,49,8.0,2024
+mexico,temoaya,341,27.0,2024
+mexico,tenancingo,586,41.0,2024
+mexico,tenango del aire,43,9.0,2024
+mexico,tenango del valle,563,58.0,2024
+mexico,teoloyucan,414,74.0,2024
+mexico,teotihuacan,355,51.0,2024
+mexico,tepetlaoxtoc,101,13.0,2024
+mexico,tepetlixpa,107,22.0,2024
+mexico,tepotzotlan,498,65.0,2024
+mexico,tequixquiac,250,31.0,2024
+mexico,texcaltitlan,86,13.0,2024
+mexico,texcalyacac,36,4.0,2024
+mexico,texcoco,1622,195.0,2024
+mexico,tezoyuca,229,50.0,2024
+mexico,tianguistenco,627,67.0,2024
+mexico,timilpan,35,7.0,2024
+mexico,tlalmanalco,221,27.0,2024
+mexico,tlalnepantla de baz,3313,502.0,2024
+mexico,tlatlaya,45,7.0,2024
+mexico,toluca,6270,525.0,2024
+mexico,tonanitla,63,13.0,2024
+mexico,tonatico,122,11.0,2024
+mexico,tultepec,690,108.0,2024
+mexico,tultitlan,2187,414.0,2024
+mexico,valle de bravo,480,39.0,2024
+mexico,valle de chalco solidaridad,2166,324.0,2024
+mexico,villa guerrero,233,28.0,2024
+mexico,villa victoria,164,13.0,2024
+mexico,villa de allende,85,8.0,2024
+mexico,villa del carbon,190,15.0,2024
+mexico,xalatlaco,141,21.0,2024
+mexico,xonacatlan,403,37.0,2024
+mexico,zacazonapan,33,5.0,2024
+mexico,zacualpan,60,4.0,2024
+mexico,zinacantepec,903,84.0,2024
+mexico,zumpahuacan,56,4.0,2024
+mexico,zumpango,1119,161.0,2024
+nayarit,acaponeta,175,17.0,2024
+nayarit,ahuacatlan,56,9.0,2024
+nayarit,amatlan de canas,38,9.0,2024
+nayarit,bahia de banderas,849,111.0,2024
+nayarit,compostela,588,48.0,2024
+nayarit,del nayar,16,2.0,2024
+nayarit,huajicori,10,3.0,2024
+nayarit,ixtlan del rio,213,15.0,2024
+nayarit,jala,83,7.0,2024
+nayarit,la yesca,25,4.0,2024
+nayarit,rosamorada,50,8.0,2024
+nayarit,ruiz,130,11.0,2024
+nayarit,san blas,159,21.0,2024
+nayarit,san pedro lagunillas,31,5.0,2024
+nayarit,santa maria del oro,47,11.0,2024
+nayarit,santiago ixcuintla,433,67.0,2024
+nayarit,tecuala,196,20.0,2024
+nayarit,tepic,2286,269.0,2024
+nayarit,tuxpan,186,17.0,2024
+nayarit,xalisco,240,26.0,2024
+nuevo leon,abasolo,4,,2024
+nuevo leon,allende,129,17.0,2024
+nuevo leon,anahuac,55,12.0,2024
+nuevo leon,apodaca,1148,148.0,2024
+nuevo leon,aramberri,31,7.0,2024
+nuevo leon,bustamante,10,2.0,2024
+nuevo leon,cadereyta jimenez,263,26.0,2024
+nuevo leon,cerralvo,21,5.0,2024
+nuevo leon,china,35,6.0,2024
+nuevo leon,cienega de flores,71,9.0,2024
+nuevo leon,doctor arroyo,104,17.0,2024
+nuevo leon,doctor gonzalez,2,,2024
+nuevo leon,el carmen,28,9.0,2024
+nuevo leon,galeana,73,13.0,2024
+nuevo leon,garcia,384,51.0,2024
+nuevo leon,general bravo,9,6.0,2024
+nuevo leon,general escobedo,850,111.0,2024
+nuevo leon,general teran,23,3.0,2024
+nuevo leon,general zaragoza,14,5.0,2024
+nuevo leon,general zuazua,118,17.0,2024
+nuevo leon,guadalupe,1639,176.0,2024
+nuevo leon,hidalgo,38,6.0,2024
+nuevo leon,higueras,1,,2024
+nuevo leon,hualahuises,20,2.0,2024
+nuevo leon,iturbide,14,1.0,2024
+nuevo leon,juarez,554,67.0,2024
+nuevo leon,lampazos de naranjo,14,4.0,2024
+nuevo leon,linares,257,19.0,2024
+nuevo leon,los aldamas,4,2.0,2024
+nuevo leon,los herreras,3,1.0,2024
+nuevo leon,los ramones,9,1.0,2024
+nuevo leon,marin,8,2.0,2024
+nuevo leon,melchor ocampo,1,1.0,2024
+nuevo leon,mier y noriega,6,2.0,2024
+nuevo leon,mina,6,2.0,2024
+nuevo leon,montemorelos,195,22.0,2024
+nuevo leon,monterrey,5115,464.0,2024
+nuevo leon,paras,1,,2024
+nuevo leon,pesqueria,78,13.0,2024
+nuevo leon,rayones,1,,2024
+nuevo leon,sabinas hidalgo,153,17.0,2024
+nuevo leon,salinas victoria,58,8.0,2024
+nuevo leon,san nicolas de los garza,1284,159.0,2024
+nuevo leon,san pedro garza garcia,858,84.0,2024
+nuevo leon,santa catarina,435,75.0,2024
+nuevo leon,santiago,115,17.0,2024
+nuevo leon,villaldama,9,3.0,2024
+oaxaca,abejones,4,1.0,2024
+oaxaca,acatlan de perez figueroa,118,17.0,2024
+oaxaca,asuncion cacalotepec,5,,2024
+oaxaca,asuncion cuyotepeji,5,1.0,2024
+oaxaca,asuncion ixtaltepec,25,4.0,2024
+oaxaca,asuncion nochixtlan,218,21.0,2024
+oaxaca,asuncion ocotlan,2,,2024
+oaxaca,asuncion tlacolulita,2,,2024
+oaxaca,ayoquezco de aldama,35,8.0,2024
+oaxaca,ayotzintepec,29,6.0,2024
+oaxaca,calihuala,7,2.0,2024
+oaxaca,candelaria loxicha,32,5.0,2024
+oaxaca,capulalpam de mendez,13,1.0,2024
+oaxaca,chahuites,71,8.0,2024
+oaxaca,chalcatongo de hidalgo,95,9.0,2024
+oaxaca,chiquihuitlan de benito juarez,11,1.0,2024
+oaxaca,ciudad ixtepec,175,13.0,2024
+oaxaca,cienega de zimatlan,16,5.0,2024
+oaxaca,coatecas altas,7,1.0,2024
+oaxaca,coicoyan de las flores,34,4.0,2024
+oaxaca,concepcion buenavista,1,,2024
+oaxaca,concepcion papalo,6,1.0,2024
+oaxaca,constancia del rosario,3,,2024
+oaxaca,cosolapa,61,9.0,2024
+oaxaca,cosoltepec,2,,2024
+oaxaca,cuilapam de guerrero,101,10.0,2024
+oaxaca,cuyamecalco villa de zaragoza,4,,2024
+oaxaca,el barrio de la soledad,33,4.0,2024
+oaxaca,el espinal,17,4.0,2024
+oaxaca,eloxochitlan de flores magon,15,2.0,2024
+oaxaca,fresnillo de trujano,1,,2024
+oaxaca,guadalupe etla,9,1.0,2024
+oaxaca,guadalupe de ramirez,3,1.0,2024
+oaxaca,guelatao de juarez,4,,2024
+oaxaca,guevea de humboldt,5,,2024
+oaxaca,heroica ciudad de ejutla de crespo,112,13.0,2024
+oaxaca,heroica ciudad de huajuapan de leon,812,56.0,2024
+oaxaca,heroica ciudad de juchitan de zaragoza,668,58.0,2024
+oaxaca,heroica ciudad de tlaxiaco,330,35.0,2024
+oaxaca,"heroica villa tezoatlan de segura y luna, cuna de la independencia de oaxaca",26,3.0,2024
+oaxaca,huautepec,4,1.0,2024
+oaxaca,huautla de jimenez,247,15.0,2024
+oaxaca,ixpantepec nieves,2,,2024
+oaxaca,ixtlan de juarez,27,4.0,2024
+oaxaca,la pe,4,1.0,2024
+oaxaca,la reforma,18,3.0,2024
+oaxaca,loma bonita,187,16.0,2024
+oaxaca,magdalena apasco,17,5.0,2024
+oaxaca,magdalena jaltepec,6,2.0,2024
+oaxaca,magdalena penasco,5,1.0,2024
+oaxaca,magdalena teitipac,23,2.0,2024
+oaxaca,magdalena tequisistlan,27,4.0,2024
+oaxaca,magdalena tlacotepec,3,,2024
+oaxaca,magdalena yodocono de porfirio diaz,7,1.0,2024
+oaxaca,mariscala de juarez,39,10.0,2024
+oaxaca,matias romero avendano,398,39.0,2024
+oaxaca,mazatlan villa de flores,13,2.0,2024
+oaxaca,mesones hidalgo,9,3.0,2024
+oaxaca,miahuatlan de porfirio diaz,422,39.0,2024
+oaxaca,mixistlan de la reforma,2,,2024
+oaxaca,monjas,5,,2024
+oaxaca,martires de tacubaya,7,1.0,2024
+oaxaca,natividad,5,2.0,2024
+oaxaca,nazareno etla,25,5.0,2024
+oaxaca,nejapa de madero,11,1.0,2024
+oaxaca,nuevo zoquiapam,8,3.0,2024
+oaxaca,oaxaca de juarez,3530,216.0,2024
+oaxaca,ocotlan de morelos,186,13.0,2024
+oaxaca,pinotepa de don luis,25,4.0,2024
+oaxaca,pluma hidalgo,10,2.0,2024
+oaxaca,putla villa de guerrero,229,22.0,2024
+oaxaca,reforma de pineda,10,2.0,2024
+oaxaca,reyes etla,5,,2024
+oaxaca,rojas de cuauhtemoc,4,,2024
+oaxaca,salina cruz,509,27.0,2024
+oaxaca,san agustin amatengo,1,,2024
+oaxaca,san agustin atenango,11,2.0,2024
+oaxaca,san agustin chayuco,10,1.0,2024
+oaxaca,san agustin etla,21,2.0,2024
+oaxaca,san agustin loxicha,42,4.0,2024
+oaxaca,san agustin tlacotepec,7,1.0,2024
+oaxaca,san agustin yatareni,20,1.0,2024
+oaxaca,san agustin de las juntas,27,4.0,2024
+oaxaca,san andres cabecera nueva,1,1.0,2024
+oaxaca,san andres dinicuiti,5,,2024
+oaxaca,san andres huaxpaltepec,19,3.0,2024
+oaxaca,san andres huayapam,8,3.0,2024
+oaxaca,san andres ixtlahuaca,5,2.0,2024
+oaxaca,san andres paxtlan,2,,2024
+oaxaca,san andres sinaxtla,3,1.0,2024
+oaxaca,san andres teotilalpam,17,,2024
+oaxaca,san andres tepetlapa,1,,2024
+oaxaca,san andres yaa,1,,2024
+oaxaca,san andres zabache,2,,2024
+oaxaca,san andres zautla,11,2.0,2024
+oaxaca,san antonino castillo velasco,27,6.0,2024
+oaxaca,san antonino monte verde,3,,2024
+oaxaca,san antonino el alto,17,1.0,2024
+oaxaca,san antonio huitepec,19,2.0,2024
+oaxaca,san antonio nanahuatipam,1,,2024
+oaxaca,san antonio sinicahua,1,,2024
+oaxaca,san antonio tepetlapa,17,,2024
+oaxaca,san antonio de la cal,88,16.0,2024
+oaxaca,san baltazar chichicapam,15,1.0,2024
+oaxaca,san baltazar loxicha,12,,2024
+oaxaca,san bartolo coyotepec,37,8.0,2024
+oaxaca,san bartolo yautepec,2,1.0,2024
+oaxaca,san bartolome ayautla,20,,2024
+oaxaca,san bartolome loxicha,6,1.0,2024
+oaxaca,san bartolome quialana,16,,2024
+oaxaca,san bartolome zoogocho,2,1.0,2024
+oaxaca,san bernardo mixtepec,10,1.0,2024
+oaxaca,san blas atempa,41,8.0,2024
+oaxaca,san carlos yautepec,5,1.0,2024
+oaxaca,san cristobal amatlan,18,2.0,2024
+oaxaca,san cristobal amoltepec,1,,2024
+oaxaca,san cristobal lachirioag,13,4.0,2024
+oaxaca,san cristobal suchixtlahuaca,2,1.0,2024
+oaxaca,san dionisio ocotepec,67,7.0,2024
+oaxaca,san dionisio ocotlan,1,,2024
+oaxaca,san dionisio del mar,9,3.0,2024
+oaxaca,san esteban atatlahuca,1,,2024
+oaxaca,san felipe jalapa de diaz,54,7.0,2024
+oaxaca,san felipe tejalapam,12,2.0,2024
+oaxaca,san felipe usila,75,12.0,2024
+oaxaca,san francisco cahuacua,2,,2024
+oaxaca,san francisco chapulapa,1,,2024
+oaxaca,san francisco huehuetlan,4,1.0,2024
+oaxaca,san francisco ixhuatan,34,6.0,2024
+oaxaca,san francisco jaltepetongo,1,,2024
+oaxaca,san francisco lachigolo,8,1.0,2024
+oaxaca,san francisco logueche,3,,2024
+oaxaca,san francisco ozolotepec,2,,2024
+oaxaca,san francisco sola,4,,2024
+oaxaca,san francisco telixtlahuaca,82,13.0,2024
+oaxaca,san francisco tlapancingo,9,2.0,2024
+oaxaca,san francisco del mar,33,4.0,2024
+oaxaca,san gabriel mixtepec,23,1.0,2024
+oaxaca,san ildefonso amatlan,2,1.0,2024
+oaxaca,san ildefonso sola,1,,2024
+oaxaca,san ildefonso villa alta,21,6.0,2024
+oaxaca,san jacinto amilpas,36,7.0,2024
+oaxaca,san jacinto tlacotepec,13,1.0,2024
+oaxaca,san jeronimo coatlan,4,,2024
+oaxaca,san jeronimo silacayoapilla,2,,2024
+oaxaca,san jeronimo sosola,1,,2024
+oaxaca,san jeronimo taviche,4,,2024
+oaxaca,san jeronimo tecoatl,7,1.0,2024
+oaxaca,san jeronimo tlacochahuaya,14,2.0,2024
+oaxaca,san jorge nuchita,12,3.0,2024
+oaxaca,san jose ayuquila,2,,2024
+oaxaca,san jose chiltepec,29,5.0,2024
+oaxaca,san jose estancia grande,3,1.0,2024
+oaxaca,san jose independencia,11,2.0,2024
+oaxaca,san jose lachiguiri,10,,2024
+oaxaca,san jose tenango,47,5.0,2024
+oaxaca,san jose del progreso,10,2.0,2024
+oaxaca,san juan achiutla,2,1.0,2024
+oaxaca,san juan atepec,8,,2024
+oaxaca,san juan bautista atatlahuca,1,,2024
+oaxaca,san juan bautista coixtlahuaca,13,2.0,2024
+oaxaca,san juan bautista cuicatlan,58,6.0,2024
+oaxaca,san juan bautista jayacatlan,10,2.0,2024
+oaxaca,san juan bautista lo de soto,8,,2024
+oaxaca,san juan bautista suchitepec,1,,2024
+oaxaca,san juan bautista tlachichilco,3,,2024
+oaxaca,san juan bautista tlacoatzintepec,3,,2024
+oaxaca,san juan bautista tuxtepec,782,75.0,2024
+oaxaca,san juan bautista valle nacional,76,11.0,2024
+oaxaca,san juan cacahuatepec,47,8.0,2024
+oaxaca,san juan chilateca,2,2.0,2024
+oaxaca,san juan cieneguilla,1,,2024
+oaxaca,san juan coatzospam,5,,2024
+oaxaca,san juan colorado,22,3.0,2024
+oaxaca,san juan comaltepec,1,,2024
+oaxaca,san juan cotzocon,69,11.0,2024
+oaxaca,san juan diuxi,2,,2024
+oaxaca,san juan evangelista analco,1,,2024
+oaxaca,san juan guelavia,24,2.0,2024
+oaxaca,san juan guichicovi,49,4.0,2024
+oaxaca,san juan ihualtepec,3,1.0,2024
+oaxaca,san juan juquila mixes,16,2.0,2024
+oaxaca,san juan juquila vijanos,3,1.0,2024
+oaxaca,san juan lachao,11,2.0,2024
+oaxaca,san juan lalana,1,,2024
+oaxaca,san juan mazatlan,6,2.0,2024
+oaxaca,san juan mixtepec,24,7.0,2024
+oaxaca,san juan ozolotepec,2,,2024
+oaxaca,san juan petlapa,3,,2024
+oaxaca,san juan quiahije,16,,2024
+oaxaca,san juan quiotepec,5,2.0,2024
+oaxaca,san juan sayultepec,2,,2024
+oaxaca,san juan tabaa,4,,2024
+oaxaca,san juan teitipac,8,2.0,2024
+oaxaca,san juan tepeuxila,1,,2024
+oaxaca,san juan teposcolula,2,,2024
+oaxaca,san juan yaee,4,1.0,2024
+oaxaca,san juan yatzona,2,1.0,2024
+oaxaca,san juan de los cues,3,,2024
+oaxaca,san juan del estado,6,1.0,2024
+oaxaca,san juan del rio,11,2.0,2024
+oaxaca,san juan numi,8,,2024
+oaxaca,san lorenzo,3,1.0,2024
+oaxaca,san lorenzo albarradas,7,1.0,2024
+oaxaca,san lorenzo cacaotepec,63,7.0,2024
+oaxaca,san lorenzo cuaunecuiltitla,5,,2024
+oaxaca,san lorenzo texmelucan,8,1.0,2024
+oaxaca,san lorenzo victoria,1,,2024
+oaxaca,san lucas camotlan,6,1.0,2024
+oaxaca,san lucas ojitlan,43,6.0,2024
+oaxaca,san lucas quiavini,5,1.0,2024
+oaxaca,san lucas zoquiapam,6,2.0,2024
+oaxaca,san luis amatlan,2,1.0,2024
+oaxaca,san marcial ozolotepec,2,1.0,2024
+oaxaca,san marcos arteaga,6,,2024
+oaxaca,san martin itunyoso,3,1.0,2024
+oaxaca,san martin lachila,10,1.0,2024
+oaxaca,san martin peras,31,1.0,2024
+oaxaca,san martin tilcajete,3,1.0,2024
+oaxaca,san martin toxpalan,12,1.0,2024
+oaxaca,san martin zacatepec,1,,2024
+oaxaca,san martin de los cansecos,2,,2024
+oaxaca,san mateo cajonos,1,1.0,2024
+oaxaca,san mateo etlatongo,1,,2024
+oaxaca,san mateo nejapam,5,2.0,2024
+oaxaca,san mateo penasco,5,1.0,2024
+oaxaca,san mateo pinas,8,,2024
+oaxaca,san mateo rio hondo,2,,2024
+oaxaca,san mateo sindihui,6,,2024
+oaxaca,san mateo yoloxochitlan,23,4.0,2024
+oaxaca,san mateo yucutindoo,6,2.0,2024
+oaxaca,san mateo del mar,26,2.0,2024
+oaxaca,san melchor betaza,2,,2024
+oaxaca,san miguel achiutla,3,,2024
+oaxaca,san miguel ahuehuetitlan,6,,2024
+oaxaca,san miguel aloapam,5,1.0,2024
+oaxaca,san miguel amatitlan,3,,2024
+oaxaca,san miguel amatlan,2,,2024
+oaxaca,san miguel chicahua,1,,2024
+oaxaca,san miguel coatlan,7,,2024
+oaxaca,san miguel ejutla,2,,2024
+oaxaca,san miguel huautla,2,,2024
+oaxaca,san miguel mixtepec,1,,2024
+oaxaca,san miguel panixtlahuaca,23,1.0,2024
+oaxaca,san miguel peras,6,1.0,2024
+oaxaca,san miguel quetzaltepec,41,3.0,2024
+oaxaca,san miguel santa flor,3,,2024
+oaxaca,san miguel soyaltepec,55,7.0,2024
+oaxaca,san miguel suchixtepec,9,1.0,2024
+oaxaca,san miguel tenango,2,,2024
+oaxaca,san miguel tequixtepec,1,,2024
+oaxaca,san miguel tilquiapam,3,,2024
+oaxaca,san miguel tlacamama,10,2.0,2024
+oaxaca,san miguel tlacotepec,13,3.0,2024
+oaxaca,san miguel del puerto,15,2.0,2024
+oaxaca,san miguel el grande,28,3.0,2024
+oaxaca,san nicolas hidalgo,5,2.0,2024
+oaxaca,san pablo coatlan,2,,2024
+oaxaca,san pablo etla,21,2.0,2024
+oaxaca,san pablo huitzo,29,6.0,2024
+oaxaca,san pablo huixtepec,90,13.0,2024
+oaxaca,san pablo macuiltianguis,1,,2024
+oaxaca,san pablo tijaltepec,10,2.0,2024
+oaxaca,san pablo villa de mitla,144,7.0,2024
+oaxaca,san pablo yaganiza,8,1.0,2024
+oaxaca,san pedro amuzgos,26,4.0,2024
+oaxaca,san pedro apostol,9,2.0,2024
+oaxaca,san pedro atoyac,7,1.0,2024
+oaxaca,san pedro cajonos,6,1.0,2024
+oaxaca,san pedro comitancillo,10,2.0,2024
+oaxaca,san pedro huamelula,10,2.0,2024
+oaxaca,san pedro huilotepec,8,1.0,2024
+oaxaca,san pedro ixcatlan,28,3.0,2024
+oaxaca,san pedro ixtlahuaca,19,6.0,2024
+oaxaca,san pedro jaltepetongo,1,,2024
+oaxaca,san pedro jicayan,28,4.0,2024
+oaxaca,san pedro jocotipac,1,,2024
+oaxaca,san pedro juchatengo,16,3.0,2024
+oaxaca,san pedro mixtepec,492,55.0,2024
+oaxaca,san pedro molinos,3,,2024
+oaxaca,san pedro martir,3,2.0,2024
+oaxaca,san pedro martir quiechapa,4,,2024
+oaxaca,san pedro ocopetatillo,5,,2024
+oaxaca,san pedro ocotepec,6,,2024
+oaxaca,san pedro pochutla,276,22.0,2024
+oaxaca,san pedro quiatoni,71,5.0,2024
+oaxaca,san pedro sochiapam,13,3.0,2024
+oaxaca,san pedro tapanatepec,51,9.0,2024
+oaxaca,san pedro taviche,1,,2024
+oaxaca,san pedro teozacoalco,2,,2024
+oaxaca,san pedro teutila,12,1.0,2024
+oaxaca,san pedro tidaa,3,,2024
+oaxaca,san pedro totolapam,9,2.0,2024
+oaxaca,san pedro yolox,1,,2024
+oaxaca,san pedro el alto,7,,2024
+oaxaca,san pedro y san pablo ayutla,35,5.0,2024
+oaxaca,san pedro y san pablo teposcolula,27,6.0,2024
+oaxaca,san pedro y san pablo tequixtepec,3,,2024
+oaxaca,san raymundo jalpan,4,,2024
+oaxaca,san sebastian abasolo,8,4.0,2024
+oaxaca,san sebastian coatlan,7,1.0,2024
+oaxaca,san sebastian ixcapa,7,1.0,2024
+oaxaca,san sebastian nicananduta,10,2.0,2024
+oaxaca,san sebastian rio hondo,5,1.0,2024
+oaxaca,san sebastian tecomaxtlahuaca,14,3.0,2024
+oaxaca,san sebastian teitipac,7,2.0,2024
+oaxaca,san sebastian tutla,56,7.0,2024
+oaxaca,san simon almolongas,3,,2024
+oaxaca,san simon zahuatlan,2,,2024
+oaxaca,san vicente coatlan,13,1.0,2024
+oaxaca,san vicente lachixio,14,1.0,2024
+oaxaca,san vicente nunu,1,,2024
+oaxaca,santa ana,2,,2024
+oaxaca,santa ana cuauhtemoc,2,,2024
+oaxaca,santa ana tavela,2,,2024
+oaxaca,santa ana tlapacoyan,4,1.0,2024
+oaxaca,santa ana yareni,2,,2024
+oaxaca,santa ana zegache,11,3.0,2024
+oaxaca,santa ana del valle,9,1.0,2024
+oaxaca,santa catalina quieri,2,,2024
+oaxaca,santa catarina cuixtla,1,,2024
+oaxaca,santa catarina ixtepeji,7,2.0,2024
+oaxaca,santa catarina juquila,180,8.0,2024
+oaxaca,santa catarina lachatao,1,,2024
+oaxaca,santa catarina loxicha,25,3.0,2024
+oaxaca,santa catarina mechoacan,17,1.0,2024
+oaxaca,santa catarina minas,5,,2024
+oaxaca,santa catarina quiane,15,2.0,2024
+oaxaca,santa catarina tayata,2,,2024
+oaxaca,santa catarina ticua,6,1.0,2024
+oaxaca,santa catarina yosonotu,8,2.0,2024
+oaxaca,santa catarina zapoquila,1,,2024
+oaxaca,santa cruz acatepec,1,,2024
+oaxaca,santa cruz amilpas,42,7.0,2024
+oaxaca,santa cruz itundujia,25,3.0,2024
+oaxaca,santa cruz mixtepec,8,1.0,2024
+oaxaca,santa cruz nundaco,6,1.0,2024
+oaxaca,santa cruz papalutla,7,2.0,2024
+oaxaca,santa cruz tacache de mina,18,1.0,2024
+oaxaca,santa cruz tacahua,9,1.0,2024
+oaxaca,santa cruz xitla,10,,2024
+oaxaca,santa cruz xoxocotlan,293,39.0,2024
+oaxaca,santa cruz zenzontepec,18,1.0,2024
+oaxaca,santa cruz de bravo,2,1.0,2024
+oaxaca,santa gertrudis,11,2.0,2024
+oaxaca,santa ines yatzeche,1,,2024
+oaxaca,santa ines de zaragoza,3,,2024
+oaxaca,santa ines del monte,1,,2024
+oaxaca,santa lucia miahuatlan,4,,2024
+oaxaca,santa lucia monteverde,9,,2024
+oaxaca,santa lucia ocotlan,20,3.0,2024
+oaxaca,santa lucia del camino,274,30.0,2024
+oaxaca,santa maria alotepec,6,1.0,2024
+oaxaca,santa maria apazco,1,,2024
+oaxaca,santa maria atzompa,63,9.0,2024
+oaxaca,santa maria camotlan,11,2.0,2024
+oaxaca,santa maria chilchotla,42,6.0,2024
+oaxaca,santa maria chimalapa,7,1.0,2024
+oaxaca,santa maria colotepec,85,10.0,2024
+oaxaca,santa maria cortijo,3,,2024
+oaxaca,santa maria coyotepec,10,2.0,2024
+oaxaca,santa maria ecatepec,2,,2024
+oaxaca,santa maria guelace,3,,2024
+oaxaca,santa maria guienagati,20,3.0,2024
+oaxaca,santa maria huatulco,370,38.0,2024
+oaxaca,santa maria huazolotitlan,22,4.0,2024
+oaxaca,santa maria ipalapa,16,,2024
+oaxaca,santa maria jacatepec,6,2.0,2024
+oaxaca,santa maria jalapa del marques,48,8.0,2024
+oaxaca,santa maria jaltianguis,3,1.0,2024
+oaxaca,santa maria lachixio,9,1.0,2024
+oaxaca,santa maria mixtequilla,10,2.0,2024
+oaxaca,santa maria ozolotepec,5,,2024
+oaxaca,santa maria petapa,14,,2024
+oaxaca,santa maria penoles,5,,2024
+oaxaca,santa maria papalo,16,,2024
+oaxaca,santa maria quiegolani,5,,2024
+oaxaca,santa maria sola,4,,2024
+oaxaca,santa maria tecomavaca,6,,2024
+oaxaca,santa maria temaxcalapa,5,1.0,2024
+oaxaca,santa maria teopoxco,4,,2024
+oaxaca,santa maria tepantlali,6,1.0,2024
+oaxaca,santa maria tlahuitoltepec,39,2.0,2024
+oaxaca,santa maria tlalixtac,10,1.0,2024
+oaxaca,santa maria tonameca,82,10.0,2024
+oaxaca,santa maria totolapilla,4,,2024
+oaxaca,santa maria xadani,12,3.0,2024
+oaxaca,santa maria yavesia,1,,2024
+oaxaca,santa maria yolotepec,2,,2024
+oaxaca,santa maria yucuhiti,3,,2024
+oaxaca,santa maria zacatepec,80,6.0,2024
+oaxaca,santa maria zaniza,7,1.0,2024
+oaxaca,santa maria zoquitlan,15,1.0,2024
+oaxaca,santa maria del tule,58,7.0,2024
+oaxaca,santa maria la asuncion,3,1.0,2024
+oaxaca,santiago amoltepec,32,4.0,2024
+oaxaca,santiago apostol,15,2.0,2024
+oaxaca,santiago astata,11,1.0,2024
+oaxaca,santiago atitlan,6,,2024
+oaxaca,santiago ayuquililla,10,1.0,2024
+oaxaca,santiago cacaloxtepec,11,1.0,2024
+oaxaca,santiago camotlan,1,,2024
+oaxaca,santiago chazumba,32,4.0,2024
+oaxaca,santiago choapam,11,3.0,2024
+oaxaca,santiago comaltepec,3,,2024
+oaxaca,santiago huajolotitlan,13,4.0,2024
+oaxaca,santiago ihuitlan plumas,1,,2024
+oaxaca,santiago ixcuintepec,7,1.0,2024
+oaxaca,santiago ixtayutla,37,1.0,2024
+oaxaca,santiago jamiltepec,121,11.0,2024
+oaxaca,santiago jocotepec,8,1.0,2024
+oaxaca,santiago juxtlahuaca,221,28.0,2024
+oaxaca,santiago lachiguiri,6,1.0,2024
+oaxaca,santiago lalopa,4,1.0,2024
+oaxaca,santiago laollaga,9,1.0,2024
+oaxaca,santiago llano grande,8,2.0,2024
+oaxaca,santiago matatlan,69,9.0,2024
+oaxaca,santiago minas,2,1.0,2024
+oaxaca,santiago niltepec,14,5.0,2024
+oaxaca,santiago nundiche,1,,2024
+oaxaca,santiago nuyoo,3,1.0,2024
+oaxaca,santiago pinotepa nacional,400,26.0,2024
+oaxaca,santiago suchilquitongo,37,6.0,2024
+oaxaca,santiago tamazola,32,5.0,2024
+oaxaca,santiago tapextla,3,,2024
+oaxaca,santiago tenango,1,,2024
+oaxaca,santiago tetepec,3,,2024
+oaxaca,santiago texcalcingo,9,,2024
+oaxaca,santiago textitlan,8,,2024
+oaxaca,santiago tilantongo,4,1.0,2024
+oaxaca,santiago tlazoyaltepec,1,,2024
+oaxaca,santiago xanica,1,,2024
+oaxaca,santiago xiacui,1,,2024
+oaxaca,santiago yaitepec,12,1.0,2024
+oaxaca,santiago yaveo,2,,2024
+oaxaca,santiago yolomecatl,28,5.0,2024
+oaxaca,santiago yosondua,33,3.0,2024
+oaxaca,santiago yucuyachi,3,1.0,2024
+oaxaca,santiago zacatepec,22,,2024
+oaxaca,santiago zoochila,1,,2024
+oaxaca,santiago del rio,1,1.0,2024
+oaxaca,santo domingo albarradas,2,1.0,2024
+oaxaca,santo domingo armenta,6,,2024
+oaxaca,santo domingo chihuitan,3,,2024
+oaxaca,santo domingo ingenio,36,6.0,2024
+oaxaca,santo domingo ixcatlan,3,1.0,2024
+oaxaca,santo domingo nuxaa,1,,2024
+oaxaca,santo domingo petapa,23,6.0,2024
+oaxaca,santo domingo tehuantepec,320,32.0,2024
+oaxaca,santo domingo teojomulco,36,2.0,2024
+oaxaca,santo domingo tepuxtepec,32,4.0,2024
+oaxaca,santo domingo tomaltepec,9,1.0,2024
+oaxaca,santo domingo tonala,26,4.0,2024
+oaxaca,santo domingo xagacia,6,,2024
+oaxaca,santo domingo yanhuitlan,5,1.0,2024
+oaxaca,santo domingo yodohino,2,1.0,2024
+oaxaca,santo domingo zanatepec,59,11.0,2024
+oaxaca,santo domingo de morelos,28,1.0,2024
+oaxaca,santo tomas jalieza,7,2.0,2024
+oaxaca,santo tomas mazaltepec,11,1.0,2024
+oaxaca,santo tomas ocotepec,7,2.0,2024
+oaxaca,santo tomas tamazulapan,4,,2024
+oaxaca,santos reyes nopala,67,5.0,2024
+oaxaca,santos reyes papalo,6,,2024
+oaxaca,santos reyes tepejillo,9,2.0,2024
+oaxaca,silacayoapam,25,6.0,2024
+oaxaca,soledad etla,20,3.0,2024
+oaxaca,tamazulapam del espiritu santo,38,2.0,2024
+oaxaca,tanetze de zaragoza,8,1.0,2024
+oaxaca,taniche,1,,2024
+oaxaca,tataltepec de valdes,21,2.0,2024
+oaxaca,teococuilco de marcos perez,7,1.0,2024
+oaxaca,teotitlan de flores magon,63,7.0,2024
+oaxaca,teotitlan del valle,46,5.0,2024
+oaxaca,teotongo,6,,2024
+oaxaca,tepelmeme villa de morelos,8,1.0,2024
+oaxaca,tlacolula de matamoros,202,18.0,2024
+oaxaca,tlalixtac de cabrera,48,5.0,2024
+oaxaca,totontepec villa de morelos,11,2.0,2024
+oaxaca,trinidad zaachila,1,,2024
+oaxaca,union hidalgo,71,9.0,2024
+oaxaca,valerio trujano,3,,2024
+oaxaca,villa diaz ordaz,16,4.0,2024
+oaxaca,villa hidalgo,9,3.0,2024
+oaxaca,villa sola de vega,56,7.0,2024
+oaxaca,villa talea de castro,24,3.0,2024
+oaxaca,villa tejupam de la union,8,1.0,2024
+oaxaca,villa de chilapa de diaz,6,,2024
+oaxaca,villa de etla,83,10.0,2024
+oaxaca,villa de tamazulapam del progreso,79,7.0,2024
+oaxaca,villa de tututepec,259,27.0,2024
+oaxaca,villa de zaachila,171,21.0,2024
+oaxaca,yaxe,5,1.0,2024
+oaxaca,yutanduchi de guerrero,3,,2024
+oaxaca,zapotitlan lagunas,14,1.0,2024
+oaxaca,zapotitlan palmas,5,3.0,2024
+oaxaca,zimatlan de alvarez,147,25.0,2024
+oaxaca,animas trujano,18,1.0,2024
+puebla,acajete,257,34.0,2024
+puebla,acateno,23,3.0,2024
+puebla,acatlan,310,28.0,2024
+puebla,acatzingo,405,32.0,2024
+puebla,acteopan,3,1.0,2024
+puebla,ahuacatlan,46,10.0,2024
+puebla,ahuatlan,7,3.0,2024
+puebla,ahuazotepec,36,6.0,2024
+puebla,ahuehuetitla,6,2.0,2024
+puebla,ajalpan,291,20.0,2024
+puebla,albino zertuche,20,1.0,2024
+puebla,aljojuca,30,1.0,2024
+puebla,altepexi,166,13.0,2024
+puebla,amixtlan,12,4.0,2024
+puebla,amozoc,630,73.0,2024
+puebla,aquixtla,12,3.0,2024
+puebla,atempan,178,14.0,2024
+puebla,atexcal,6,1.0,2024
+puebla,atlequizayan,5,2.0,2024
+puebla,atlixco,905,93.0,2024
+puebla,atoyatempan,49,10.0,2024
+puebla,atzala,5,,2024
+puebla,atzitzihuacan,59,2.0,2024
+puebla,atzitzintla,25,3.0,2024
+puebla,ayotoxco de guerrero,41,11.0,2024
+puebla,calpan,70,15.0,2024
+puebla,caltepec,2,,2024
+puebla,camocuautla,8,,2024
+puebla,caxhuacan,17,5.0,2024
+puebla,canada morelos,40,7.0,2024
+puebla,chalchicomula de sesma,264,16.0,2024
+puebla,chapulco,20,4.0,2024
+puebla,chiautla,135,21.0,2024
+puebla,chiautzingo,84,11.0,2024
+puebla,chichiquila,20,3.0,2024
+puebla,chiconcuautla,13,4.0,2024
+puebla,chietla,150,25.0,2024
+puebla,chigmecatitlan,10,1.0,2024
+puebla,chignahuapan,370,33.0,2024
+puebla,chignautla,116,10.0,2024
+puebla,chila,17,2.0,2024
+puebla,chila de la sal,4,,2024
+puebla,chilchotla,103,10.0,2024
+puebla,chinantla,9,5.0,2024
+puebla,coatepec,3,2.0,2024
+puebla,coatzingo,16,3.0,2024
+puebla,cohetzala,2,,2024
+puebla,cohuecan,7,2.0,2024
+puebla,coronango,320,26.0,2024
+puebla,coxcatlan,59,11.0,2024
+puebla,coyomeapan,20,4.0,2024
+puebla,coyotepec,3,,2024
+puebla,cuapiaxtla de madero,35,7.0,2024
+puebla,cuautempan,29,7.0,2024
+puebla,cuautinchan,10,1.0,2024
+puebla,cuautlancingo,408,54.0,2024
+puebla,cuayuca de andrade,8,1.0,2024
+puebla,cuetzalan del progreso,132,19.0,2024
+puebla,cuyoaco,34,3.0,2024
+puebla,domingo arenas,31,5.0,2024
+puebla,eloxochitlan,17,1.0,2024
+puebla,epatlan,17,3.0,2024
+puebla,esperanza,88,9.0,2024
+puebla,francisco z. mena,49,6.0,2024
+puebla,general felipe angeles,105,9.0,2024
+puebla,guadalupe,15,3.0,2024
+puebla,guadalupe victoria,136,17.0,2024
+puebla,hermenegildo galeana,18,3.0,2024
+puebla,honey,19,6.0,2024
+puebla,huaquechula,58,14.0,2024
+puebla,huatlatlauca,5,1.0,2024
+puebla,huauchinango,549,48.0,2024
+puebla,huehuetla,47,11.0,2024
+puebla,huehuetlan el chico,68,8.0,2024
+puebla,huehuetlan el grande,28,4.0,2024
+puebla,huejotzingo,446,51.0,2024
+puebla,hueyapan,49,5.0,2024
+puebla,hueytamalco,92,11.0,2024
+puebla,hueytlalpan,15,4.0,2024
+puebla,huitzilan de serdan,22,4.0,2024
+puebla,huitziltepec,21,2.0,2024
+puebla,ixcamilpa de guerrero,7,2.0,2024
+puebla,ixcaquixtla,52,5.0,2024
+puebla,ixtacamaxtitlan,8,2.0,2024
+puebla,ixtepec,31,7.0,2024
+puebla,izucar de matamoros,512,55.0,2024
+puebla,jalpan,1,,2024
+puebla,jolalpan,43,3.0,2024
+puebla,jonotla,9,3.0,2024
+puebla,jopala,56,10.0,2024
+puebla,juan c. bonilla,61,8.0,2024
+puebla,juan galindo,66,13.0,2024
+puebla,juan n. mendez,11,1.0,2024
+puebla,lafragua,3,,2024
+puebla,libres,296,23.0,2024
+puebla,los reyes de juarez,133,13.0,2024
+puebla,mazapiltepec de juarez,7,,2024
+puebla,mixtla,5,,2024
+puebla,molcaxac,27,5.0,2024
+puebla,naupan,9,2.0,2024
+puebla,nauzontla,10,1.0,2024
+puebla,nealtican,129,11.0,2024
+puebla,nicolas bravo,13,2.0,2024
+puebla,nopalucan,95,13.0,2024
+puebla,ocotepec,7,1.0,2024
+puebla,ocoyucan,138,13.0,2024
+puebla,olintla,19,3.0,2024
+puebla,oriental,76,8.0,2024
+puebla,pahuatlan,59,8.0,2024
+puebla,palmar de bravo,196,20.0,2024
+puebla,pantepec,60,9.0,2024
+puebla,petlalcingo,31,4.0,2024
+puebla,piaxtla,17,5.0,2024
+puebla,puebla,9913,874.0,2024
+puebla,quecholac,232,32.0,2024
+puebla,quimixtlan,35,4.0,2024
+puebla,rafael lara grajales,232,19.0,2024
+puebla,san andres cholula,600,102.0,2024
+puebla,san antonio canada,1,,2024
+puebla,san diego la mesa tochimiltzingo,2,,2024
+puebla,san felipe teotlalcingo,26,7.0,2024
+puebla,san felipe tepatlan,3,1.0,2024
+puebla,san gabriel chilac,118,18.0,2024
+puebla,san gregorio atzompa,39,7.0,2024
+puebla,san jeronimo tecuanipan,7,1.0,2024
+puebla,san jeronimo xayacatlan,6,,2024
+puebla,san jose chiapa,23,3.0,2024
+puebla,san jose miahuatlan,74,5.0,2024
+puebla,san juan atenco,21,4.0,2024
+puebla,san juan atzompa,6,1.0,2024
+puebla,san martin texmelucan,1348,143.0,2024
+puebla,san martin totoltepec,6,1.0,2024
+puebla,san matias tlalancaleca,100,15.0,2024
+puebla,san miguel ixitlan,1,,2024
+puebla,san miguel xoxtla,85,11.0,2024
+puebla,san nicolas buenos aires,50,5.0,2024
+puebla,san nicolas de los ranchos,91,15.0,2024
+puebla,san pablo anicano,9,1.0,2024
+puebla,san pedro cholula,1013,94.0,2024
+puebla,san pedro yeloixtlahuaca,9,3.0,2024
+puebla,san salvador huixcolotla,195,18.0,2024
+puebla,san salvador el seco,162,27.0,2024
+puebla,san salvador el verde,176,29.0,2024
+puebla,san sebastian tlacotepec,14,2.0,2024
+puebla,santa catarina tlaltempan,2,1.0,2024
+puebla,santa ines ahuatempan,28,2.0,2024
+puebla,santa isabel cholula,3,,2024
+puebla,santiago miahuatlan,83,7.0,2024
+puebla,santo tomas hueyotlipan,53,5.0,2024
+puebla,soltepec,39,5.0,2024
+puebla,tecali de herrera,68,13.0,2024
+puebla,tecamachalco,560,42.0,2024
+puebla,tecomatlan,29,6.0,2024
+puebla,tehuacan,2075,159.0,2024
+puebla,tehuitzingo,61,8.0,2024
+puebla,tenampulco,28,3.0,2024
+puebla,teopantlan,25,3.0,2024
+puebla,teotlalco,2,,2024
+puebla,tepanco de lopez,69,5.0,2024
+puebla,tepango de rodriguez,15,5.0,2024
+puebla,tepatlaxco de hidalgo,116,14.0,2024
+puebla,tepeaca,838,51.0,2024
+puebla,tepemaxalco,5,,2024
+puebla,tepeojuma,34,5.0,2024
+puebla,tepetzintla,11,2.0,2024
+puebla,tepexco,26,6.0,2024
+puebla,tepexi de rodriguez,67,8.0,2024
+puebla,tepeyahualco,48,9.0,2024
+puebla,tepeyahualco de cuauhtemoc,23,4.0,2024
+puebla,tetela de ocampo,118,15.0,2024
+puebla,teteles de avila castillo,36,7.0,2024
+puebla,teziutlan,765,66.0,2024
+puebla,tianguismanalco,34,4.0,2024
+puebla,tilapa,11,1.0,2024
+puebla,tlachichuca,77,7.0,2024
+puebla,tlacotepec de benito juarez,236,25.0,2024
+puebla,tlacuilotepec,23,5.0,2024
+puebla,tlahuapan,171,20.0,2024
+puebla,tlaltenango,44,10.0,2024
+puebla,tlanepantla,26,3.0,2024
+puebla,tlaola,33,10.0,2024
+puebla,tlapacoya,10,1.0,2024
+puebla,tlapanala,29,7.0,2024
+puebla,tlatlauquitepec,221,31.0,2024
+puebla,tlaxco,17,4.0,2024
+puebla,tochimilco,33,7.0,2024
+puebla,tochtepec,104,21.0,2024
+puebla,totoltepec de guerrero,6,1.0,2024
+puebla,tulcingo,130,16.0,2024
+puebla,tuzamapan de galeana,17,3.0,2024
+puebla,tzicatlacoyan,5,,2024
+puebla,venustiano carranza,233,21.0,2024
+puebla,vicente guerrero,50,6.0,2024
+puebla,xayacatlan de bravo,3,,2024
+puebla,xicotepec,501,52.0,2024
+puebla,xicotlan,8,1.0,2024
+puebla,xiutetelco,159,18.0,2024
+puebla,xochiapulco,11,1.0,2024
+puebla,xochiltepec,10,2.0,2024
+puebla,xochitlan todos santos,40,3.0,2024
+puebla,xochitlan de vicente suarez,28,3.0,2024
+puebla,yaonahuac,27,2.0,2024
+puebla,yehualtepec,144,20.0,2024
+puebla,zacapala,8,2.0,2024
+puebla,zacapoaxtla,288,25.0,2024
+puebla,zacatlan,478,42.0,2024
+puebla,zapotitlan,24,4.0,2024
+puebla,zapotitlan de mendez,25,5.0,2024
+puebla,zaragoza,204,14.0,2024
+puebla,zautla,39,8.0,2024
+puebla,zihuateutla,17,2.0,2024
+puebla,zinacatepec,155,20.0,2024
+puebla,zongozotla,30,5.0,2024
+puebla,zoquiapan,8,3.0,2024
+puebla,zoquitlan,75,5.0,2024
+queretaro,amealco de bonfil,240,16.0,2024
+queretaro,arroyo seco,16,3.0,2024
+queretaro,cadereyta de montes,303,27.0,2024
+queretaro,colon,108,16.0,2024
+queretaro,corregidora,671,98.0,2024
+queretaro,el marques,364,62.0,2024
+queretaro,ezequiel montes,300,25.0,2024
+queretaro,huimilpan,92,9.0,2024
+queretaro,jalpan de serra,195,22.0,2024
+queretaro,landa de matamoros,9,4.0,2024
+queretaro,pedro escobedo,391,42.0,2024
+queretaro,penamiller,20,3.0,2024
+queretaro,pinal de amoles,46,4.0,2024
+queretaro,queretaro,5743,604.0,2024
+queretaro,san joaquin,50,7.0,2024
+queretaro,san juan del rio,1526,166.0,2024
+queretaro,tequisquiapan,378,35.0,2024
+queretaro,toliman,109,14.0,2024
+quintana roo,bacalar,68,14.0,2024
+quintana roo,benito juarez,2337,374.0,2024
+quintana roo,cozumel,564,80.0,2024
+quintana roo,felipe carrillo puerto,221,23.0,2024
+quintana roo,isla mujeres,80,8.0,2024
+quintana roo,jose maria morelos,101,20.0,2024
+quintana roo,lazaro cardenas,63,10.0,2024
+quintana roo,othon p. blanco,800,118.0,2024
+quintana roo,puerto morelos,71,14.0,2024
+quintana roo,solidaridad,1213,197.0,2024
+quintana roo,tulum,165,24.0,2024
+san luis potosi,ahualulco,79,9.0,2024
+san luis potosi,alaquines,3,,2024
+san luis potosi,aquismon,46,3.0,2024
+san luis potosi,axtla de terrazas,109,9.0,2024
+san luis potosi,catorce,31,2.0,2024
+san luis potosi,cedral,90,5.0,2024
+san luis potosi,cerritos,168,18.0,2024
+san luis potosi,charcas,112,6.0,2024
+san luis potosi,ciudad fernandez,193,21.0,2024
+san luis potosi,ciudad valles,686,51.0,2024
+san luis potosi,ciudad del maiz,144,13.0,2024
+san luis potosi,coxcatlan,25,3.0,2024
+san luis potosi,cardenas,153,13.0,2024
+san luis potosi,ebano,161,14.0,2024
+san luis potosi,el naranjo,87,8.0,2024
+san luis potosi,guadalcazar,8,3.0,2024
+san luis potosi,huehuetlan,7,2.0,2024
+san luis potosi,lagunillas,1,,2024
+san luis potosi,matehuala,700,35.0,2024
+san luis potosi,matlapa,73,8.0,2024
+san luis potosi,mexquitic de carmona,33,8.0,2024
+san luis potosi,moctezuma,83,8.0,2024
+san luis potosi,rayon,58,8.0,2024
+san luis potosi,rioverde,679,44.0,2024
+san luis potosi,salinas,182,16.0,2024
+san luis potosi,san antonio,4,1.0,2024
+san luis potosi,san ciro de acosta,66,7.0,2024
+san luis potosi,san luis potosi,5047,340.0,2024
+san luis potosi,san martin chalchicuautla,24,6.0,2024
+san luis potosi,san nicolas tolentino,4,1.0,2024
+san luis potosi,san vicente tancuayalab,34,9.0,2024
+san luis potosi,santa catarina,2,,2024
+san luis potosi,santa maria del rio,227,15.0,2024
+san luis potosi,santo domingo,5,1.0,2024
+san luis potosi,soledad de graciano sanchez,1066,94.0,2024
+san luis potosi,tamasopo,68,9.0,2024
+san luis potosi,tamazunchale,294,29.0,2024
+san luis potosi,tampacan,14,3.0,2024
+san luis potosi,tampamolon corona,29,1.0,2024
+san luis potosi,tamuin,100,8.0,2024
+san luis potosi,tancanhuitz,56,8.0,2024
+san luis potosi,tanlajas,30,3.0,2024
+san luis potosi,tanquian de escobedo,51,6.0,2024
+san luis potosi,tierra nueva,54,6.0,2024
+san luis potosi,vanegas,15,2.0,2024
+san luis potosi,venado,94,11.0,2024
+san luis potosi,villa hidalgo,42,5.0,2024
+san luis potosi,villa juarez,15,4.0,2024
+san luis potosi,villa de arista,101,12.0,2024
+san luis potosi,villa de arriaga,52,7.0,2024
+san luis potosi,villa de guadalupe,5,1.0,2024
+san luis potosi,villa de ramos,123,25.0,2024
+san luis potosi,villa de reyes,219,21.0,2024
+san luis potosi,villa de la paz,7,1.0,2024
+san luis potosi,xilitla,113,8.0,2024
+san luis potosi,zaragoza,50,7.0,2024
+sinaloa,ahome,1732,204.0,2024
+sinaloa,angostura,107,24.0,2024
+sinaloa,badiraguato,48,6.0,2024
+sinaloa,choix,82,10.0,2024
+sinaloa,concordia,55,15.0,2024
+sinaloa,cosala,70,11.0,2024
+sinaloa,culiacan,3742,631.0,2024
+sinaloa,el fuerte,183,34.0,2024
+sinaloa,elota,110,15.0,2024
+sinaloa,escuinapa,257,34.0,2024
+sinaloa,guasave,967,137.0,2024
+sinaloa,mazatlan,2057,299.0,2024
+sinaloa,mocorito,70,15.0,2024
+sinaloa,navolato,351,52.0,2024
+sinaloa,rosario,142,22.0,2024
+sinaloa,salvador alvarado,374,58.0,2024
+sinaloa,san ignacio,34,8.0,2024
+sinaloa,sinaloa,88,20.0,2024
+sonora,aconchi,7,4.0,2024
+sonora,agua prieta,222,39.0,2024
+sonora,alamos,44,7.0,2024
+sonora,altar,39,4.0,2024
+sonora,arivechi,1,,2024
+sonora,arizpe,7,3.0,2024
+sonora,atil,1,,2024
+sonora,bacanora,2,1.0,2024
+sonora,bacerac,4,1.0,2024
+sonora,bacoachi,6,2.0,2024
+sonora,banamichi,7,2.0,2024
+sonora,bavispe,2,2.0,2024
+sonora,baviacora,8,1.0,2024
+sonora,benito juarez,53,8.0,2024
+sonora,benjamin hill,16,2.0,2024
+sonora,bacum,39,8.0,2024
+sonora,caborca,278,42.0,2024
+sonora,cajeme,1383,181.0,2024
+sonora,cananea,119,19.0,2024
+sonora,carbo,9,2.0,2024
+sonora,cucurpe,1,1.0,2024
+sonora,cumpas,21,3.0,2024
+sonora,empalme,112,11.0,2024
+sonora,etchojoa,76,19.0,2024
+sonora,fronteras,20,3.0,2024
+sonora,general plutarco elias calles,51,10.0,2024
+sonora,granados,2,1.0,2024
+sonora,guaymas,400,39.0,2024
+sonora,hermosillo,2616,448.0,2024
+sonora,huachinera,2,2.0,2024
+sonora,huatabampo,209,19.0,2024
+sonora,huasabas,2,1.0,2024
+sonora,imuris,28,3.0,2024
+sonora,magdalena,80,14.0,2024
+sonora,mazatan,6,2.0,2024
+sonora,moctezuma,23,4.0,2024
+sonora,naco,20,6.0,2024
+sonora,nacozari de garcia,53,2.0,2024
+sonora,navojoa,453,53.0,2024
+sonora,nogales,665,106.0,2024
+sonora,nacori chico,3,,2024
+sonora,opodepe,3,1.0,2024
+sonora,pitiquito,23,3.0,2024
+sonora,puerto penasco,286,84.0,2024
+sonora,quiriego,2,1.0,2024
+sonora,rayon,3,1.0,2024
+sonora,rosario,9,2.0,2024
+sonora,sahuaripa,13,5.0,2024
+sonora,san felipe de jesus,1,1.0,2024
+sonora,san ignacio rio muerto,36,6.0,2024
+sonora,san luis rio colorado,622,132.0,2024
+sonora,san miguel de horcasitas,11,3.0,2024
+sonora,san pedro de la cueva,5,2.0,2024
+sonora,santa ana,39,14.0,2024
+sonora,santa cruz,3,1.0,2024
+sonora,suaqui grande,1,1.0,2024
+sonora,saric,1,,2024
+sonora,tepache,2,,2024
+sonora,trincheras,1,,2024
+sonora,ures,14,5.0,2024
+sonora,villa hidalgo,2,1.0,2024
+sonora,villa pesqueira,1,,2024
+sonora,yecora,15,2.0,2024
+tabasco,balancan,165,19.0,2024
+tabasco,centla,241,33.0,2024
+tabasco,centro,2362,324.0,2024
+tabasco,comalcalco,796,89.0,2024
+tabasco,cunduacan,247,36.0,2024
+tabasco,cardenas,896,118.0,2024
+tabasco,emiliano zapata,178,20.0,2024
+tabasco,huimanguillo,409,45.0,2024
+tabasco,jalapa,46,9.0,2024
+tabasco,jalpa de mendez,181,27.0,2024
+tabasco,jonuta,60,6.0,2024
+tabasco,macuspana,370,66.0,2024
+tabasco,nacajuca,234,36.0,2024
+tabasco,paraiso,266,33.0,2024
+tabasco,tacotalpa,94,13.0,2024
+tabasco,teapa,212,22.0,2024
+tabasco,tenosique,248,20.0,2024
+tamaulipas,abasolo,24,6.0,2024
+tamaulipas,aldama,125,9.0,2024
+tamaulipas,altamira,603,71.0,2024
+tamaulipas,antiguo morelos,9,2.0,2024
+tamaulipas,burgos,8,1.0,2024
+tamaulipas,bustamante,9,1.0,2024
+tamaulipas,camargo,68,14.0,2024
+tamaulipas,casas,2,,2024
+tamaulipas,ciudad madero,544,87.0,2024
+tamaulipas,cruillas,4,1.0,2024
+tamaulipas,el mante,499,45.0,2024
+tamaulipas,gonzalez,178,22.0,2024
+tamaulipas,guerrero,10,3.0,2024
+tamaulipas,gustavo diaz ordaz,65,10.0,2024
+tamaulipas,gomez farias,8,4.0,2024
+tamaulipas,guemez,1,,2024
+tamaulipas,hidalgo,35,7.0,2024
+tamaulipas,jaumave,46,9.0,2024
+tamaulipas,jimenez,17,4.0,2024
+tamaulipas,llera,27,6.0,2024
+tamaulipas,matamoros,1566,219.0,2024
+tamaulipas,mier,15,2.0,2024
+tamaulipas,miguel aleman,152,13.0,2024
+tamaulipas,miquihuana,10,1.0,2024
+tamaulipas,mendez,5,2.0,2024
+tamaulipas,nuevo laredo,1329,147.0,2024
+tamaulipas,nuevo morelos,11,1.0,2024
+tamaulipas,ocampo,30,6.0,2024
+tamaulipas,padilla,46,13.0,2024
+tamaulipas,palmillas,3,,2024
+tamaulipas,reynosa,2272,314.0,2024
+tamaulipas,rio bravo,467,104.0,2024
+tamaulipas,san carlos,5,1.0,2024
+tamaulipas,san fernando,131,15.0,2024
+tamaulipas,soto la marina,63,5.0,2024
+tamaulipas,tampico,1469,147.0,2024
+tamaulipas,tula,138,14.0,2024
+tamaulipas,valle hermoso,204,25.0,2024
+tamaulipas,victoria,1040,147.0,2024
+tamaulipas,villagran,8,2.0,2024
+tamaulipas,xicotencatl,60,6.0,2024
+tlaxcala,acuamanala de miguel hidalgo,17,3.0,2024
+tlaxcala,amaxac de guerrero,55,12.0,2024
+tlaxcala,apetatitlan de antonio carvajal,90,11.0,2024
+tlaxcala,apizaco,1014,56.0,2024
+tlaxcala,atlangatepec,1,,2024
+tlaxcala,atltzayanca,41,5.0,2024
+tlaxcala,benito juarez,64,5.0,2024
+tlaxcala,calpulalpan,409,29.0,2024
+tlaxcala,chiautempan,898,87.0,2024
+tlaxcala,contla de juan cuamatzi,225,23.0,2024
+tlaxcala,cuapiaxtla,64,8.0,2024
+tlaxcala,cuaxomulco,19,2.0,2024
+tlaxcala,el carmen tequexquitla,112,17.0,2024
+tlaxcala,emiliano zapata,14,5.0,2024
+tlaxcala,espanita,15,3.0,2024
+tlaxcala,huamantla,646,56.0,2024
+tlaxcala,hueyotlipan,73,9.0,2024
+tlaxcala,ixtacuixtla de mariano matamoros,170,28.0,2024
+tlaxcala,ixtenco,50,9.0,2024
+tlaxcala,la magdalena tlaltelulco,93,7.0,2024
+tlaxcala,lazaro cardenas,20,4.0,2024
+tlaxcala,mazatecochco de jose maria morelos,70,7.0,2024
+tlaxcala,munoz de domingo arenas,12,3.0,2024
+tlaxcala,nanacamilpa de mariano arista,128,10.0,2024
+tlaxcala,nativitas,122,19.0,2024
+tlaxcala,panotla,90,13.0,2024
+tlaxcala,papalotla de xicohtencatl,181,25.0,2024
+tlaxcala,san damian texoloc,30,5.0,2024
+tlaxcala,san francisco tetlanohcan,98,9.0,2024
+tlaxcala,san jeronimo zacualpan,17,4.0,2024
+tlaxcala,san jose teacalco,36,3.0,2024
+tlaxcala,san juan huactzinco,34,6.0,2024
+tlaxcala,san lorenzo axocomanitla,20,,2024
+tlaxcala,san lucas tecopilco,14,3.0,2024
+tlaxcala,san pablo del monte,475,38.0,2024
+tlaxcala,sanctorum de lazaro cardenas,55,9.0,2024
+tlaxcala,santa ana nopalucan,41,9.0,2024
+tlaxcala,santa apolonia teacalco,22,7.0,2024
+tlaxcala,santa catarina ayometla,45,7.0,2024
+tlaxcala,santa cruz quilehtla,48,3.0,2024
+tlaxcala,santa cruz tlaxcala,72,12.0,2024
+tlaxcala,santa isabel xiloxoxtla,20,3.0,2024
+tlaxcala,tenancingo,75,10.0,2024
+tlaxcala,teolocholco,148,17.0,2024
+tlaxcala,tepetitla de lardizabal,81,11.0,2024
+tlaxcala,tepeyanco,20,3.0,2024
+tlaxcala,terrenate,73,10.0,2024
+tlaxcala,tetla de la solidaridad,111,9.0,2024
+tlaxcala,tetlatlahuca,46,9.0,2024
+tlaxcala,tlaxcala,876,86.0,2024
+tlaxcala,tlaxco,180,15.0,2024
+tlaxcala,tocatlan,42,3.0,2024
+tlaxcala,totolac,46,7.0,2024
+tlaxcala,tzompantepec,44,6.0,2024
+tlaxcala,xaloztoc,150,8.0,2024
+tlaxcala,xaltocan,12,4.0,2024
+tlaxcala,xicohtzinco,100,14.0,2024
+tlaxcala,yauhquemehcan,90,13.0,2024
+tlaxcala,zacatelco,445,32.0,2024
+tlaxcala,ziltlaltepec de trinidad sanchez santos,53,4.0,2024
+veracruz de ignacio de la llave,acajete,17,3.0,2024
+veracruz de ignacio de la llave,acatlan,29,5.0,2024
+veracruz de ignacio de la llave,acayucan,487,52.0,2024
+veracruz de ignacio de la llave,actopan,58,13.0,2024
+veracruz de ignacio de la llave,acula,4,,2024
+veracruz de ignacio de la llave,acultzingo,33,5.0,2024
+veracruz de ignacio de la llave,agua dulce,164,18.0,2024
+veracruz de ignacio de la llave,alpatlahuac,19,5.0,2024
+veracruz de ignacio de la llave,alto lucero de gutierrez barrios,93,20.0,2024
+veracruz de ignacio de la llave,altotonga,292,36.0,2024
+veracruz de ignacio de la llave,alvarado,155,24.0,2024
+veracruz de ignacio de la llave,amatitlan,2,1.0,2024
+veracruz de ignacio de la llave,amatlan de los reyes,80,9.0,2024
+veracruz de ignacio de la llave,angel r. cabada,104,14.0,2024
+veracruz de ignacio de la llave,apazapan,6,3.0,2024
+veracruz de ignacio de la llave,astacinga,38,3.0,2024
+veracruz de ignacio de la llave,atlahuilco,14,2.0,2024
+veracruz de ignacio de la llave,atoyac,82,14.0,2024
+veracruz de ignacio de la llave,atzacan,59,5.0,2024
+veracruz de ignacio de la llave,atzalan,67,11.0,2024
+veracruz de ignacio de la llave,ayahualulco,50,8.0,2024
+veracruz de ignacio de la llave,banderilla,108,15.0,2024
+veracruz de ignacio de la llave,benito juarez,28,6.0,2024
+veracruz de ignacio de la llave,boca del rio,868,91.0,2024
+veracruz de ignacio de la llave,calcahualco,9,3.0,2024
+veracruz de ignacio de la llave,camaron de tejeda,6,1.0,2024
+veracruz de ignacio de la llave,camerino z. mendoza,226,24.0,2024
+veracruz de ignacio de la llave,carlos a. carrillo,54,8.0,2024
+veracruz de ignacio de la llave,carrillo puerto,10,2.0,2024
+veracruz de ignacio de la llave,castillo de teayo,18,6.0,2024
+veracruz de ignacio de la llave,catemaco,172,25.0,2024
+veracruz de ignacio de la llave,cazones de herrera,36,7.0,2024
+veracruz de ignacio de la llave,cerro azul,138,17.0,2024
+veracruz de ignacio de la llave,chacaltianguis,18,5.0,2024
+veracruz de ignacio de la llave,chalma,9,4.0,2024
+veracruz de ignacio de la llave,chiconquiaco,59,5.0,2024
+veracruz de ignacio de la llave,chicontepec,105,10.0,2024
+veracruz de ignacio de la llave,chinameca,35,7.0,2024
+veracruz de ignacio de la llave,chinampa de gorostiza,17,3.0,2024
+veracruz de ignacio de la llave,chocaman,79,11.0,2024
+veracruz de ignacio de la llave,chontla,17,4.0,2024
+veracruz de ignacio de la llave,chumatlan,4,1.0,2024
+veracruz de ignacio de la llave,citlaltepetl,58,15.0,2024
+veracruz de ignacio de la llave,coacoatzintla,60,8.0,2024
+veracruz de ignacio de la llave,coahuitlan,28,1.0,2024
+veracruz de ignacio de la llave,coatepec,458,38.0,2024
+veracruz de ignacio de la llave,coatzacoalcos,1161,148.0,2024
+veracruz de ignacio de la llave,coatzintla,73,9.0,2024
+veracruz de ignacio de la llave,coetzala,2,,2024
+veracruz de ignacio de la llave,colipa,17,4.0,2024
+veracruz de ignacio de la llave,comapa,28,5.0,2024
+veracruz de ignacio de la llave,cosamaloapan de carpio,294,34.0,2024
+veracruz de ignacio de la llave,cosautlan de carvajal,37,8.0,2024
+veracruz de ignacio de la llave,coscomatepec,252,24.0,2024
+veracruz de ignacio de la llave,cosoleacaque,310,46.0,2024
+veracruz de ignacio de la llave,cotaxtla,39,8.0,2024
+veracruz de ignacio de la llave,coxquihui,28,4.0,2024
+veracruz de ignacio de la llave,coyutla,119,12.0,2024
+veracruz de ignacio de la llave,cuichapa,25,7.0,2024
+veracruz de ignacio de la llave,cuitlahuac,169,16.0,2024
+veracruz de ignacio de la llave,cordoba,1199,103.0,2024
+veracruz de ignacio de la llave,el higo,93,9.0,2024
+veracruz de ignacio de la llave,emiliano zapata,167,41.0,2024
+veracruz de ignacio de la llave,espinal,64,21.0,2024
+veracruz de ignacio de la llave,filomeno mata,84,13.0,2024
+veracruz de ignacio de la llave,fortin,195,24.0,2024
+veracruz de ignacio de la llave,gutierrez zamora,121,22.0,2024
+veracruz de ignacio de la llave,hidalgotitlan,33,8.0,2024
+veracruz de ignacio de la llave,huatusco,447,43.0,2024
+veracruz de ignacio de la llave,huayacocotla,85,13.0,2024
+veracruz de ignacio de la llave,hueyapan de ocampo,42,10.0,2024
+veracruz de ignacio de la llave,huiloapan de cuauhtemoc,11,1.0,2024
+veracruz de ignacio de la llave,ignacio de la llave,46,8.0,2024
+veracruz de ignacio de la llave,ilamatlan,8,1.0,2024
+veracruz de ignacio de la llave,isla,186,21.0,2024
+veracruz de ignacio de la llave,ixcatepec,31,10.0,2024
+veracruz de ignacio de la llave,ixhuacan de los reyes,19,2.0,2024
+veracruz de ignacio de la llave,ixhuatlancillo,37,5.0,2024
+veracruz de ignacio de la llave,ixhuatlan de madero,54,17.0,2024
+veracruz de ignacio de la llave,ixhuatlan del cafe,50,11.0,2024
+veracruz de ignacio de la llave,ixhuatlan del sureste,53,10.0,2024
+veracruz de ignacio de la llave,ixmatlahuacan,9,,2024
+veracruz de ignacio de la llave,ixtaczoquitlan,161,31.0,2024
+veracruz de ignacio de la llave,jalacingo,123,12.0,2024
+veracruz de ignacio de la llave,jalcomulco,38,3.0,2024
+veracruz de ignacio de la llave,jamapa,15,3.0,2024
+veracruz de ignacio de la llave,jesus carranza,68,14.0,2024
+veracruz de ignacio de la llave,jilotepec,35,4.0,2024
+veracruz de ignacio de la llave,jose azueta,51,6.0,2024
+veracruz de ignacio de la llave,juan rodriguez clara,150,23.0,2024
+veracruz de ignacio de la llave,juchique de ferrer,56,12.0,2024
+veracruz de ignacio de la llave,jaltipan,129,15.0,2024
+veracruz de ignacio de la llave,la antigua,238,25.0,2024
+veracruz de ignacio de la llave,la perla,24,5.0,2024
+veracruz de ignacio de la llave,landero y coss,2,,2024
+veracruz de ignacio de la llave,las choapas,248,23.0,2024
+veracruz de ignacio de la llave,las minas,2,,2024
+veracruz de ignacio de la llave,las vigas de ramirez,112,11.0,2024
+veracruz de ignacio de la llave,lerdo de tejada,105,15.0,2024
+veracruz de ignacio de la llave,los reyes,1,,2024
+veracruz de ignacio de la llave,magdalena,5,2.0,2024
+veracruz de ignacio de la llave,maltrata,77,10.0,2024
+veracruz de ignacio de la llave,manlio fabio altamirano,32,6.0,2024
+veracruz de ignacio de la llave,mariano escobedo,46,3.0,2024
+veracruz de ignacio de la llave,martinez de la torre,572,81.0,2024
+veracruz de ignacio de la llave,mecatlan,18,6.0,2024
+veracruz de ignacio de la llave,mecayapan,29,3.0,2024
+veracruz de ignacio de la llave,medellin de bravo,123,26.0,2024
+veracruz de ignacio de la llave,miahuatlan,34,2.0,2024
+veracruz de ignacio de la llave,minatitlan,749,85.0,2024
+veracruz de ignacio de la llave,misantla,312,35.0,2024
+veracruz de ignacio de la llave,mixtla de altamirano,27,1.0,2024
+veracruz de ignacio de la llave,moloacan,51,9.0,2024
+veracruz de ignacio de la llave,nanchital de lazaro cardenas del rio,114,15.0,2024
+veracruz de ignacio de la llave,naolinco,328,18.0,2024
+veracruz de ignacio de la llave,naranjal,8,2.0,2024
+veracruz de ignacio de la llave,naranjos amatlan,194,24.0,2024
+veracruz de ignacio de la llave,nautla,20,6.0,2024
+veracruz de ignacio de la llave,nogales,74,9.0,2024
+veracruz de ignacio de la llave,oluta,59,8.0,2024
+veracruz de ignacio de la llave,omealca,50,8.0,2024
+veracruz de ignacio de la llave,orizaba,1097,94.0,2024
+veracruz de ignacio de la llave,otatitlan,25,2.0,2024
+veracruz de ignacio de la llave,oteapan,52,6.0,2024
+veracruz de ignacio de la llave,ozuluama de mascarenas,36,4.0,2024
+veracruz de ignacio de la llave,pajapan,42,6.0,2024
+veracruz de ignacio de la llave,papantla,435,57.0,2024
+veracruz de ignacio de la llave,paso de ovejas,46,8.0,2024
+veracruz de ignacio de la llave,paso del macho,140,18.0,2024
+veracruz de ignacio de la llave,perote,532,50.0,2024
+veracruz de ignacio de la llave,platon sanchez,66,13.0,2024
+veracruz de ignacio de la llave,playa vicente,188,30.0,2024
+veracruz de ignacio de la llave,poza rica de hidalgo,1230,122.0,2024
+veracruz de ignacio de la llave,pueblo viejo,92,19.0,2024
+veracruz de ignacio de la llave,puente nacional,7,1.0,2024
+veracruz de ignacio de la llave,panuco,240,32.0,2024
+veracruz de ignacio de la llave,rafael delgado,66,9.0,2024
+veracruz de ignacio de la llave,rafael lucio,26,3.0,2024
+veracruz de ignacio de la llave,rio blanco,150,21.0,2024
+veracruz de ignacio de la llave,saltabarranca,7,2.0,2024
+veracruz de ignacio de la llave,san andres tenejapan,2,1.0,2024
+veracruz de ignacio de la llave,san andres tuxtla,523,78.0,2024
+veracruz de ignacio de la llave,san juan evangelista,51,13.0,2024
+veracruz de ignacio de la llave,san rafael,98,17.0,2024
+veracruz de ignacio de la llave,santiago sochiapan,17,3.0,2024
+veracruz de ignacio de la llave,santiago tuxtla,147,26.0,2024
+veracruz de ignacio de la llave,sayula de aleman,51,12.0,2024
+veracruz de ignacio de la llave,sochiapa,4,1.0,2024
+veracruz de ignacio de la llave,soconusco,18,4.0,2024
+veracruz de ignacio de la llave,soledad atzompa,17,1.0,2024
+veracruz de ignacio de la llave,soledad de doblado,106,12.0,2024
+veracruz de ignacio de la llave,soteapan,61,12.0,2024
+veracruz de ignacio de la llave,tamalin,41,7.0,2024
+veracruz de ignacio de la llave,tamiahua,42,5.0,2024
+veracruz de ignacio de la llave,tampico alto,11,3.0,2024
+veracruz de ignacio de la llave,tancoco,4,1.0,2024
+veracruz de ignacio de la llave,tantima,3,,2024
+veracruz de ignacio de la llave,tantoyuca,245,34.0,2024
+veracruz de ignacio de la llave,tatahuicapan de juarez,40,6.0,2024
+veracruz de ignacio de la llave,tatatila,8,,2024
+veracruz de ignacio de la llave,tecolutla,77,14.0,2024
+veracruz de ignacio de la llave,tehuipango,110,9.0,2024
+veracruz de ignacio de la llave,tempoal,97,14.0,2024
+veracruz de ignacio de la llave,tenampa,5,1.0,2024
+veracruz de ignacio de la llave,tenochtitlan,18,2.0,2024
+veracruz de ignacio de la llave,teocelo,73,3.0,2024
+veracruz de ignacio de la llave,tepatlaxco,9,1.0,2024
+veracruz de ignacio de la llave,tepetlan,9,3.0,2024
+veracruz de ignacio de la llave,tepetzintla,41,11.0,2024
+veracruz de ignacio de la llave,tequila,28,1.0,2024
+veracruz de ignacio de la llave,texcatepec,7,,2024
+veracruz de ignacio de la llave,texhuacan,27,1.0,2024
+veracruz de ignacio de la llave,texistepec,34,5.0,2024
+veracruz de ignacio de la llave,tezonapa,150,15.0,2024
+veracruz de ignacio de la llave,tierra blanca,497,53.0,2024
+veracruz de ignacio de la llave,tihuatlan,142,19.0,2024
+veracruz de ignacio de la llave,tlachichilco,25,5.0,2024
+veracruz de ignacio de la llave,tlacojalpan,14,3.0,2024
+veracruz de ignacio de la llave,tlacolulan,12,3.0,2024
+veracruz de ignacio de la llave,tlacotalpan,45,7.0,2024
+veracruz de ignacio de la llave,tlacotepec de mejia,11,2.0,2024
+veracruz de ignacio de la llave,tlalixcoyan,91,19.0,2024
+veracruz de ignacio de la llave,tlalnelhuayocan,26,,2024
+veracruz de ignacio de la llave,tlaltetela,36,6.0,2024
+veracruz de ignacio de la llave,tlapacoyan,350,33.0,2024
+veracruz de ignacio de la llave,tlaquilpa,31,2.0,2024
+veracruz de ignacio de la llave,tlilapan,9,2.0,2024
+veracruz de ignacio de la llave,tomatlan,23,4.0,2024
+veracruz de ignacio de la llave,tonayan,14,3.0,2024
+veracruz de ignacio de la llave,totutla,40,9.0,2024
+veracruz de ignacio de la llave,tres valles,157,26.0,2024
+veracruz de ignacio de la llave,tuxpan,566,77.0,2024
+veracruz de ignacio de la llave,tuxtilla,7,2.0,2024
+veracruz de ignacio de la llave,ursulo galvan,71,13.0,2024
+veracruz de ignacio de la llave,uxpanapa,60,8.0,2024
+veracruz de ignacio de la llave,vega de alatorre,96,18.0,2024
+veracruz de ignacio de la llave,veracruz,2529,282.0,2024
+veracruz de ignacio de la llave,villa aldama,35,4.0,2024
+veracruz de ignacio de la llave,xalapa,2836,293.0,2024
+veracruz de ignacio de la llave,xico,154,17.0,2024
+veracruz de ignacio de la llave,xoxocotla,21,3.0,2024
+veracruz de ignacio de la llave,yanga,48,10.0,2024
+veracruz de ignacio de la llave,yecuatla,24,6.0,2024
+veracruz de ignacio de la llave,zacualpan,12,2.0,2024
+veracruz de ignacio de la llave,zaragoza,53,7.0,2024
+veracruz de ignacio de la llave,zentla,8,3.0,2024
+veracruz de ignacio de la llave,zongolica,135,13.0,2024
+veracruz de ignacio de la llave,zontecomatlan de lopez y fuentes,15,3.0,2024
+veracruz de ignacio de la llave,zozocolco de hidalgo,21,3.0,2024
+veracruz de ignacio de la llave,alamo temapache,328,39.0,2024
+yucatan,abala,3,,2024
+yucatan,acanceh,24,6.0,2024
+yucatan,akil,40,7.0,2024
+yucatan,baca,19,2.0,2024
+yucatan,bokoba,11,,2024
+yucatan,buctzotz,47,3.0,2024
+yucatan,cacalchen,21,2.0,2024
+yucatan,calotmul,2,,2024
+yucatan,cansahcab,18,1.0,2024
+yucatan,cantamayec,5,1.0,2024
+yucatan,celestun,64,7.0,2024
+yucatan,cenotillo,17,5.0,2024
+yucatan,chacsinkin,4,,2024
+yucatan,chankom,3,,2024
+yucatan,chapab,4,1.0,2024
+yucatan,chemax,84,9.0,2024
+yucatan,chichimila,9,1.0,2024
+yucatan,chicxulub pueblo,16,1.0,2024
+yucatan,chikindzonot,4,,2024
+yucatan,chochola,16,3.0,2024
+yucatan,chumayel,6,1.0,2024
+yucatan,conkal,30,7.0,2024
+yucatan,cuncunul,2,,2024
+yucatan,cuzama,5,,2024
+yucatan,dzemul,8,1.0,2024
+yucatan,dzidzantun,42,7.0,2024
+yucatan,dzilam gonzalez,34,4.0,2024
+yucatan,dzilam de bravo,12,1.0,2024
+yucatan,dzitas,10,1.0,2024
+yucatan,dzoncauich,5,,2024
+yucatan,dzan,19,2.0,2024
+yucatan,espita,39,6.0,2024
+yucatan,halacho,75,5.0,2024
+yucatan,hocaba,11,,2024
+yucatan,hoctun,21,5.0,2024
+yucatan,homun,26,3.0,2024
+yucatan,huhi,18,,2024
+yucatan,hunucma,134,7.0,2024
+yucatan,ixil,9,1.0,2024
+yucatan,izamal,144,13.0,2024
+yucatan,kanasin,187,33.0,2024
+yucatan,kantunil,12,4.0,2024
+yucatan,kaua,7,,2024
+yucatan,kinchil,21,7.0,2024
+yucatan,kopoma,9,1.0,2024
+yucatan,mama,10,1.0,2024
+yucatan,mani,17,5.0,2024
+yucatan,maxcanu,54,6.0,2024
+yucatan,mayapan,7,,2024
+yucatan,mococha,6,,2024
+yucatan,motul,157,12.0,2024
+yucatan,muna,49,5.0,2024
+yucatan,muxupip,3,,2024
+yucatan,merida,4533,584.0,2024
+yucatan,opichen,8,,2024
+yucatan,oxkutzcab,180,11.0,2024
+yucatan,panaba,22,5.0,2024
+yucatan,peto,105,6.0,2024
+yucatan,progreso,242,31.0,2024
+yucatan,quintana roo,4,1.0,2024
+yucatan,rio lagartos,8,,2024
+yucatan,sacalum,11,1.0,2024
+yucatan,samahil,11,1.0,2024
+yucatan,san felipe,13,1.0,2024
+yucatan,sanahcat,5,,2024
+yucatan,santa elena,29,1.0,2024
+yucatan,seye,23,5.0,2024
+yucatan,sinanche,5,1.0,2024
+yucatan,sotuta,18,3.0,2024
+yucatan,sucila,9,1.0,2024
+yucatan,sudzal,3,,2024
+yucatan,suma,5,,2024
+yucatan,tahdziu,8,,2024
+yucatan,tahmek,4,,2024
+yucatan,teabo,14,3.0,2024
+yucatan,tecoh,23,3.0,2024
+yucatan,tekal de venegas,6,,2024
+yucatan,tekanto,10,,2024
+yucatan,tekax,159,6.0,2024
+yucatan,tekit,44,6.0,2024
+yucatan,tekom,3,,2024
+yucatan,telchac pueblo,8,2.0,2024
+yucatan,telchac puerto,8,2.0,2024
+yucatan,temax,22,4.0,2024
+yucatan,temozon,31,3.0,2024
+yucatan,tepakan,4,,2024
+yucatan,tetiz,14,1.0,2024
+yucatan,teya,4,,2024
+yucatan,ticul,362,12.0,2024
+yucatan,timucuy,6,1.0,2024
+yucatan,tinum,59,4.0,2024
+yucatan,tixcacalcupul,11,1.0,2024
+yucatan,tixkokob,41,5.0,2024
+yucatan,tixmehuac,10,,2024
+yucatan,tixpehual,15,1.0,2024
+yucatan,tizimin,265,27.0,2024
+yucatan,tunkas,14,2.0,2024
+yucatan,tzucacab,61,4.0,2024
+yucatan,uayma,2,,2024
+yucatan,ucu,5,3.0,2024
+yucatan,uman,147,17.0,2024
+yucatan,valladolid,408,39.0,2024
+yucatan,xocchel,8,,2024
+yucatan,yaxcaba,17,1.0,2024
+yucatan,yaxkukul,11,3.0,2024
+yucatan,yobain,2,,2024
+zacatecas,apozol,12,2.0,2024
+zacatecas,apulco,7,1.0,2024
+zacatecas,atolinga,12,3.0,2024
+zacatecas,benito juarez,32,5.0,2024
+zacatecas,calera,319,24.0,2024
+zacatecas,canitas de felipe pescador,22,7.0,2024
+zacatecas,chalchihuites,26,6.0,2024
+zacatecas,concepcion del oro,74,5.0,2024
+zacatecas,cuauhtemoc,45,5.0,2024
+zacatecas,el plateado de joaquin amaro,1,,2024
+zacatecas,el salvador,4,2.0,2024
+zacatecas,fresnillo,1157,75.0,2024
+zacatecas,genaro codina,15,3.0,2024
+zacatecas,general enrique estrada,12,1.0,2024
+zacatecas,general francisco r. murguia,47,8.0,2024
+zacatecas,general panfilo natera,51,7.0,2024
+zacatecas,guadalupe,898,72.0,2024
+zacatecas,huanusco,9,1.0,2024
+zacatecas,jalpa,162,24.0,2024
+zacatecas,jerez,463,36.0,2024
+zacatecas,jimenez del teul,9,3.0,2024
+zacatecas,juan aldama,184,19.0,2024
+zacatecas,juchipila,119,16.0,2024
+zacatecas,loreto,332,12.0,2024
+zacatecas,luis moya,70,5.0,2024
+zacatecas,mazapil,11,1.0,2024
+zacatecas,melchor ocampo,2,1.0,2024
+zacatecas,mezquital del oro,7,1.0,2024
+zacatecas,miguel auza,126,13.0,2024
+zacatecas,momax,8,2.0,2024
+zacatecas,monte escobedo,46,7.0,2024
+zacatecas,morelos,49,8.0,2024
+zacatecas,moyahua de estrada,13,3.0,2024
+zacatecas,nochistlan de mejia,174,27.0,2024
+zacatecas,noria de angeles,14,2.0,2024
+zacatecas,ojocaliente,251,17.0,2024
+zacatecas,pinos,121,20.0,2024
+zacatecas,panuco,40,4.0,2024
+zacatecas,rio grande,409,36.0,2024
+zacatecas,sain alto,65,7.0,2024
+zacatecas,santa maria de la paz,11,2.0,2024
+zacatecas,sombrerete,291,14.0,2024
+zacatecas,susticacan,1,,2024
+zacatecas,tabasco,105,10.0,2024
+zacatecas,tepechitlan,56,9.0,2024
+zacatecas,tepetongo,14,4.0,2024
+zacatecas,teul de gonzalez ortega,27,6.0,2024
+zacatecas,tlaltenango de sanchez roman,267,22.0,2024
+zacatecas,trancoso,71,5.0,2024
+zacatecas,trinidad garcia de la cadena,17,3.0,2024
+zacatecas,valparaiso,167,16.0,2024
+zacatecas,vetagrande,14,1.0,2024
+zacatecas,villa garcia,70,10.0,2024
+zacatecas,villa gonzalez ortega,53,12.0,2024
+zacatecas,villa hidalgo,64,11.0,2024
+zacatecas,villa de cos,90,14.0,2024
+zacatecas,villanueva,184,14.0,2024
+zacatecas,zacatecas,1041,73.0,2024
