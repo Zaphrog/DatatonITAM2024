@@ -49,11 +49,15 @@ Este proyecto tiene como objetivo predecir la ubicación óptima para la apertur
 ## Codigo
 ### Procesamiento 
 PREP_PreprocesamientoDatos.ipynb
+
 PREP_TopFarmacias.ipynb
+
 PREP_Clusters.ipynb
 ### Red Neuronal
 RN_EntrenamientoRedNeuronalFarmacias.ipynb
+
 RN_PrediccionesRNF.ipynb
 ### Interpretacion
 INTER_RankingResultados.ipynb
+
 INTER_DistanciaEuclidiana.ipynb
